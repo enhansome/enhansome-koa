@@ -1,0 +1,2587 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "仓库",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T12:48:44Z",
+            "owner": "koajs",
+            "repo": "koa",
+            "stars": 35691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T12:48:44Z",
+            "owner": "koajs",
+            "repo": "koa",
+            "stars": 35691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "案例",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T12:48:44Z",
+            "owner": "koajs",
+            "repo": "koa",
+            "stars": 35691
+          }
+        }
+      ],
+      "title": "官方文档"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "资源"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "仓库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Egg",
+          "description": "为企业级框架和应用而生。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T12:08:56Z",
+            "owner": "eggjs",
+            "repo": "egg",
+            "stars": 18988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midway",
+          "description": "面向前端/全栈开发人员的 Node.js Serverless框架。 Midway 可以使用 koa、express 或 EggJS 作为基本的 web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:14:14Z",
+            "owner": "midwayjs",
+            "repo": "midway",
+            "stars": 7738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkJS",
+          "description": "支持ES2015 +的框架, 支持TypeScript。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T09:12:05Z",
+            "owner": "thinkjs",
+            "repo": "thinkjs",
+            "stars": 5270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lad",
+          "description": "最好的Node.js框架，由前Express和Koa团队成员创建。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-29T09:38:14Z",
+            "owner": "ladjs",
+            "repo": "lad",
+            "stars": 2287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CabloyJS",
+          "description": "一款自带工作流引擎的Node.js全栈框架, 基于koa + egg + vue + framework7.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:20:36Z",
+            "owner": "cabloy",
+            "repo": "cabloy",
+            "stars": 970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koatty",
+          "description": "Koa2 + Typescript = Koatty。使用Typescript装饰器实现了控制反转和面向切面编程。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-26T03:36:28Z",
+            "owner": "Koatty",
+            "repo": "koatty",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "框架"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "node-typescript-koa-rest",
+          "description": "使用 NodeJS、Koa2、TypeScript的样板程序，包括 TypeORM、class-validator, SQL CRUD. Docker、Swagger docs, actions CI 等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-15T12:19:28Z",
+            "owner": "javieraviles",
+            "repo": "node-typescript-koa-rest",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-rest-api-boilerplate",
+          "description": "Node.js Koa RESTful API 样板程序，带 Docker、Swagger、Jest、Coveralls 和 CircleCI。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-07-30T02:58:27Z",
+            "owner": "posquit0",
+            "repo": "koa-rest-api-boilerplate",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koalerplate",
+          "description": "一个简单的使用 ES6 de Koa 2 样板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-01T04:50:17Z",
+            "owner": "dbalas",
+            "repo": "koalerplate",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "案例 & 样板程序"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "中间件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-json",
+          "description": "将 JSON 打印美化的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-30T12:56:39Z",
+            "owner": "koajs",
+            "repo": "json",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-json-filter",
+          "description": "该中间件允许客户端只过滤他们需要的响应，减少线路上的流量。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-10T08:17:26Z",
+            "owner": "koajs",
+            "repo": "json-filter",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-json-mask",
+          "description": "该中间件允许客户端只过滤他们需要的响应，减少线路上的流量。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-30T21:28:45Z",
+            "owner": "nemtsov",
+            "repo": "koa-json-mask",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-is-json",
+          "description": "检查 koa 主体是否应该被解析为 JSON。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-09T18:43:50Z",
+            "owner": "koajs",
+            "repo": "is-json",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "JSON"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-jsonp",
+          "description": "支持GET/POST JSONP流的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-14T08:26:51Z",
+            "owner": "kilianc",
+            "repo": "koa-jsonp",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-safe-jsonp",
+          "description": "安全的Koa JSONP插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-27T08:54:11Z",
+            "owner": "koajs",
+            "repo": "koa-safe-jsonp",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-response-jsonp",
+          "description": "KOA JSONP中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T21:38:29Z",
+            "owner": "keenwon",
+            "repo": "koa-response-jsonp",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "JSONP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-stylus",
+          "description": "Stylus中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-06T02:08:26Z",
+            "owner": "yosssi",
+            "repo": "koa-stylus",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-scss",
+          "description": "SCSS中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-15T01:53:02Z",
+            "owner": "adamkdean",
+            "repo": "koa-scss",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-less",
+          "description": "LESS中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-07-24T07:43:12Z",
+            "owner": "chosecz",
+            "repo": "koa-less",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-postcss",
+          "description": "PostCSS中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-03T05:25:15Z",
+            "owner": "HowlingEverett",
+            "repo": "koa-postcss",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa.sass",
+          "description": "Sass中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-30T18:02:11Z",
+            "owner": "elquimista",
+            "repo": "koa-sass",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "CSS预处理器"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-bodyparser",
+          "description": "用于Koa，基于co-body的主体解析。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T01:24:06Z",
+            "owner": "koajs",
+            "repo": "bodyparser",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-body",
+          "description": "功能齐全的 koa 主体解析器中间件。支持 multipart、urlencoded 和 json 请求正文。 提供与 Express 的 bodyParser 相同的功能 - multer。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T06:52:51Z",
+            "owner": "koajs",
+            "repo": "koa-body",
+            "stars": 955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-better-body",
+          "description": "功能齐全的 koa 体解析器！支持解析文本、缓冲区、json、json patch、json api、csp-report、multipart、form和urlencoded body。 适用于 koa@1、koa@2 并将适用于 koa@3。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-21T23:40:59Z",
+            "owner": "tunnckoCore",
+            "repo": "opensource",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-multer",
+          "description": "Multer 是一个 Node.js 中间件，用于处理 koa 的 multipart/form-data。 koa 中间件的 multer 封装。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-05T07:22:54Z",
+            "owner": "koa-modules",
+            "repo": "multer",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-body-parsers",
+          "description": "Koa请求正文解析器集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:22:57Z",
+            "owner": "koajs",
+            "repo": "body-parsers",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-xml-body",
+          "description": "解析 xml http 请求正文。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-20T16:18:43Z",
+            "owner": "creeperyang",
+            "repo": "koa-xml-body",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-busboy",
+          "description": "处理 koa v2 的 multipart/form-data 数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-10T05:40:44Z",
+            "owner": "dominhhai",
+            "repo": "koa-busboy",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-json-body",
+          "description": "解析合法的 JSON 请求正文。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-22T14:52:26Z",
+            "owner": "venables",
+            "repo": "koa-json-body",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "主体解析(Body解析)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-compose",
+          "description": "组合多个中间件为一个。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T08:06:13Z",
+            "owner": "koajs",
+            "repo": "compose",
+            "stars": 1020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-convert",
+          "description": "将koa legacy (v0.x & v1.x版本) 生成器中间件转化为promise中间件(v2.x)。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-10T18:43:48Z",
+            "owner": "koajs",
+            "repo": "convert",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-connect",
+          "description": "在Koa中使用connect和express中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-10T13:45:42Z",
+            "owner": "vkurchatkin",
+            "repo": "koa-connect",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-useragent",
+          "description": "快速显露user-agent的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T12:13:42Z",
+            "owner": "rvboris",
+            "repo": "koa-useragent",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-views",
+          "description": "可使用几乎任何模板引擎渲染你的视图。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:28:09Z",
+            "owner": "queckezz",
+            "repo": "koa-views",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-react-view",
+          "description": "Koa视图渲染中间件，用于在服务端渲染React组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-23T16:04:51Z",
+            "owner": "koajs",
+            "repo": "react-view",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-ejs",
+          "description": "Koa视图渲染中间件，支持ejs所有特性。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T16:33:44Z",
+            "owner": "koajs",
+            "repo": "ejs",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-hbs",
+          "description": "Express风格视图渲染。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-02T19:17:52Z",
+            "owner": "koajs",
+            "repo": "koa-hbs",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-pug",
+          "description": "Pug (原名Jade) 中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T11:45:18Z",
+            "owner": "chrisyip",
+            "repo": "koa-pug",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-handlebars",
+          "description": "Handlebars视图渲染中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-19T15:53:56Z",
+            "owner": "dominicbarnes",
+            "repo": "koa-handlebars",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-vue-view",
+          "description": "Koa视图渲染中间件，用于在服务端渲染Vue组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-21T10:44:47Z",
+            "owner": "imingyu",
+            "repo": "koa-vue-view",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-swig",
+          "description": "swig视图渲染中间件, 支持标签，过滤器和插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-17T12:34:08Z",
+            "owner": "koa-modules",
+            "repo": "swig",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-view",
+          "description": "Nunjucks视图渲染中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-02T10:11:10Z",
+            "owner": "d-band",
+            "repo": "koa-view",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-dom",
+          "description": "服务端渲染DOM模板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-15T14:10:40Z",
+            "owner": "juliangruber",
+            "repo": "koa-dom",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-nunjucks-next",
+          "description": "Nunjucks视图渲染中间件, 支持异步过滤器，渲染原始字符串。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-19T11:05:52Z",
+            "owner": "beliefgp",
+            "repo": "koa-nunjucks-next",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-xtpl",
+          "description": "xtemplate模板引擎的封装(使其在Koa 2使用更简单).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-09T13:33:22Z",
+            "owner": "zce",
+            "repo": "koa-xtpl",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-nunjucks-async",
+          "description": "一个Koa@2 Nunjucks视图渲染中间件。使用 Node 的原生 和 。 还将 ctx.state 暴露给渲染模板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T22:37:00Z",
+            "owner": "uniibu",
+            "repo": "koa-nunjucks-async",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "co-ejs",
+          "description": "koa ejs视图渲染中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-15T11:21:54Z",
+            "owner": "nswbmw",
+            "repo": "co-ejs",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koajs-nunjucks",
+          "description": "Nunjucks视图渲染中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2014-12-13T02:42:25Z",
+            "owner": "DigitalIO",
+            "repo": "koajs-nunjucks",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-swig-render",
+          "description": "swig视图渲染中间件.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-01-14T07:01:55Z",
+            "owner": "JiangJie",
+            "repo": "koa-swig-render",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa2-jsx",
+          "description": "JSX 使用服务器端 React 方法渲染，Redux 支持从上下文设置模板数据。可用于创建通用应用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-22T00:39:35Z",
+            "owner": "artdecocode",
+            "repo": "koa2-jsx",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koahub-handlebars",
+          "description": "Handlebars视图渲染中间件, 使用async/await",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-11T08:27:10Z",
+            "owner": "koahubjs",
+            "repo": "koahub-handlebars",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "视图渲染"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-static",
+          "description": "静态文件服务中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-20T17:16:30Z",
+            "owner": "koajs",
+            "repo": "static",
+            "stars": 1147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-send",
+          "description": "传送静态文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-28T23:46:11Z",
+            "owner": "koajs",
+            "repo": "send",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-static-cache",
+          "description": "带缓存的静态文件服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-10T23:10:49Z",
+            "owner": "koajs",
+            "repo": "static-cache",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-favicon",
+          "description": "基于 提供网站图标服务favicon。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-24T20:43:09Z",
+            "owner": "koajs",
+            "repo": "favicon",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-static-server",
+          "description": "具有目录、重写和索引支持的 koa 静态文件服务中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-18T19:33:24Z",
+            "owner": "pkoretic",
+            "repo": "koa-static-server",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-sendfile",
+          "description": "基础文件发送工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-19T07:14:08Z",
+            "owner": "koajs",
+            "repo": "sendfile",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-file-server",
+          "description": "具有附加功能的静态文件服务，如支持 etag 和 SPDY 推送。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-03-24T12:01:07Z",
+            "owner": "koajs",
+            "repo": "file-server",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-stream",
+          "description": "支持范围请求的文件发送实用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-02T08:45:01Z",
+            "owner": "claudetech",
+            "repo": "koa-stream",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-better-serve",
+          "description": "使用 提供小型、简单和正确的文件服务——仅此而已。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-23T20:36:26Z",
+            "owner": "tunnckoCore",
+            "repo": "koa-better-serve",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-spa",
+          "description": "基于(静态缓存)构建的单页应用服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-02-22T15:10:12Z",
+            "owner": "ktmud",
+            "repo": "koa-spa",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-serve-static",
+          "description": "提供静态文件，基于 Express 的 。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-27T08:50:21Z",
+            "owner": "koa-modules",
+            "repo": "serve-static",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-static2",
+          "description": "在用户声明的名称下的文件夹提供文件服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-22T14:33:19Z",
+            "owner": "Secbone",
+            "repo": "koa-static2",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-static-folder",
+          "description": "使用文件夹提供静态文件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-02-28T13:38:56Z",
+            "owner": "janpieterz",
+            "repo": "koajs-static-folder",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-serve-list",
+          "description": "基于 Express 的 为 koa 提供目录列表。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-30T02:19:38Z",
+            "owner": "koa-modules",
+            "repo": "serve-list",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-serve",
+          "description": "提供静态文件服务的Koa中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-15T20:20:30Z",
+            "owner": "adamkdean",
+            "repo": "koa-serve",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "文件服务"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-router",
+          "description": "Koa路由中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:22:38Z",
+            "owner": "koajs",
+            "repo": "router",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-mount",
+          "description": "挂载Koa应用作为中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T03:02:55Z",
+            "owner": "koajs",
+            "repo": "mount",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-joi-router",
+          "description": "可配置、输入和输出校验规则的路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-10T13:24:25Z",
+            "owner": "koajs",
+            "repo": "joi-router",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-route",
+          "description": "一个简单的路由中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-16T00:38:28Z",
+            "owner": "koajs",
+            "repo": "route",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-tree-router",
+          "description": "基于树结构的高性能路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-28T07:31:47Z",
+            "owner": "steambap",
+            "repo": "koa-tree-router",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-trie-router",
+          "description": "基于字典树的路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-29T10:19:53Z",
+            "owner": "koajs",
+            "repo": "trie-router",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-oai-router",
+          "description": "Koa 路由，基于 OpenAPI、Swagger 和 Json Schema。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T07:49:06Z",
+            "owner": "oaijs",
+            "repo": "koa-oai-router",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-rewrite",
+          "description": "URL重写中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-16T00:22:04Z",
+            "owner": "koajs",
+            "repo": "rewrite",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-better-router",
+          "description": "稳定和可爱的路由，使用 。 轻松构建强大、灵活的RESTful API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-23T19:25:23Z",
+            "owner": "tunnckoCore",
+            "repo": "koa-better-router",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-qs",
+          "description": "支持嵌套的 query string。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-19T07:10:10Z",
+            "owner": "koajs",
+            "repo": "qs",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-rest-router",
+          "description": "最强大、灵活和可组合的路由中间件，用于轻松构建企业 RESTful API！",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-23T18:06:18Z",
+            "owner": "tunnckoCore",
+            "repo": "koa-rest-router",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-66",
+          "description": "用于koa v2路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-25T10:04:09Z",
+            "owner": "menems",
+            "repo": "koa-66",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-combine-routers",
+          "description": "组合多个@koa/router实例。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-02T07:41:45Z",
+            "owner": "saadq",
+            "repo": "koa-combine-routers",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-mapper",
+          "description": "更好的路由器支持参数验证和 OpenAPI 生成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-17T14:25:27Z",
+            "owner": "d-band",
+            "repo": "koa-mapper",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-react-router",
+          "description": "koa 2 中间件，用于 React 服务器端渲染和路由使用 react-router",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-29T15:31:23Z",
+            "owner": "afenton90",
+            "repo": "koa-react-router",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-path-match",
+          "description": "Koa路由中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-28T09:35:33Z",
+            "owner": "koajs",
+            "repo": "path-match",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-params",
+          "description": "对 koa-route 的 Express 样式参数支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-04-12T19:17:18Z",
+            "owner": "segment-boneyard",
+            "repo": "koa-params",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-frouter",
+          "description": "File as .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-04T13:25:53Z",
+            "owner": "nswbmw",
+            "repo": "koa-frouter",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-dec-router",
+          "description": "一个 ES6 装饰器 + 基于类的路由器，支持继承、覆盖、优先级、自动加载控制器等。底层使用koa-router。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-19T10:29:40Z",
+            "owner": "zaaack",
+            "repo": "koa-dec-router",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-routing",
+          "description": "路由中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-30T17:56:42Z",
+            "owner": "ivpusic",
+            "repo": "koa-routing",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kroute",
+          "description": "模块化 Koa 路由器中间件，带有 Express 风格的路由和中间件挂载。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-29T17:20:14Z",
+            "owner": "blakeembrey",
+            "repo": "kroute",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-methodoverride",
+          "description": "HTTP 方法覆盖中间件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-30T18:00:04Z",
+            "owner": "koa-modules",
+            "repo": "methodoverride",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-simple-router",
+          "description": "简单快速的 REST 路由中间件（支持koa 2.x）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-17T18:14:24Z",
+            "owner": "gyson",
+            "repo": "koa-simple-router",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-sub-domain",
+          "description": "处理多级和子域通配符的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-28T19:22:54Z",
+            "owner": "Student007",
+            "repo": "koa-sub-domain",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa2-router",
+          "description": "一个Express风格的路由中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-01T06:39:20Z",
+            "owner": "xinpianchang",
+            "repo": "koa2-router",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-joi-controllers",
+          "description": "对 封装的控制器装饰器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T01:50:03Z",
+            "owner": "giall",
+            "repo": "koa-joi-controllers",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "impress-router",
+          "description": "Express风格的路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-04T09:28:36Z",
+            "owner": "magicdawn",
+            "repo": "impress-router",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-bestest-router",
+          "description": "Koa 的路由器中间件。无突变(Mutation-free)，少于100行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-06T01:18:17Z",
+            "owner": "TehShrike",
+            "repo": "koa-bestest-router",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-ovenware",
+          "description": "Koa 的自动模型/控制器加载器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-12T07:18:06Z",
+            "owner": "zedgu",
+            "repo": "koa-ovenware",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-forward-request",
+          "description": "转发请求。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-24T11:25:32Z",
+            "owner": "nswbmw",
+            "repo": "koa-forward-request",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-architect",
+          "description": "自动挂载和路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-05T14:55:51Z",
+            "owner": "nervgh",
+            "repo": "koa-architect",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "路由和挂载"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-jwt",
+          "description": "校验JWT（JSON Web Tokens）的Koa中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-10T02:34:25Z",
+            "owner": "koajs",
+            "repo": "jwt",
+            "stars": 1350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-passport",
+          "description": "基于Passport的鉴权中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-13T04:58:16Z",
+            "owner": "rkusa",
+            "repo": "koa-passport",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-basic-auth",
+          "description": "简单的用户密码基础授权。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-07T09:19:09Z",
+            "owner": "koajs",
+            "repo": "basic-auth",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-bearer-token",
+          "description": "Bearer token解析器中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-09T00:16:10Z",
+            "owner": "chentsulin",
+            "repo": "koa-bearer-token",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-statelessauth",
+          "description": "基于 header的自定义验证。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-21T15:45:59Z",
+            "owner": "jchannon",
+            "repo": "koa-statelessauth",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-weixin-token",
+          "description": "微信Token服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-20T07:34:36Z",
+            "owner": "nealnote",
+            "repo": "koa-weixin-token",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-police",
+          "description": "基于策略的身份验证库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-27T13:22:16Z",
+            "owner": "danhper",
+            "repo": "koa-police",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-jwt-mongo",
+          "description": "将JWT（JSON Web Tokens）存储在mongodb中的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-21T13:15:05Z",
+            "owner": "miserylee",
+            "repo": "koa-jwt-mongo",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-http-auth",
+          "description": "简单的 HTTP 身份验证，包括基本身份验证和摘要（Digest）身份验证。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-12-25T08:22:02Z",
+            "owner": "Gerhut",
+            "repo": "koa-http-auth",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-cognito-middleware",
+          "description": "简单的使用 AWS Cognito user pools 的鉴权。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-17T19:45:45Z",
+            "owner": "uhop",
+            "repo": "koa-cognito-middleware",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "授权/鉴权"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-mongo",
+          "description": "MongoDB中间件，支持连接池。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-18T02:02:57Z",
+            "owner": "nswbmw",
+            "repo": "koa-mongo",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-orm",
+          "description": "使用sequelize & squel的ORM中间件.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-04T08:17:35Z",
+            "owner": "d-band",
+            "repo": "koa-orm",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-pagination",
+          "description": "处理Range Pagination Headers, 使用 & 实体头.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-02T19:47:36Z",
+            "owner": "uphold",
+            "repo": "koa-pagination",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-pg",
+          "description": "自动操作Pg数据库连接。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-09-01T11:35:38Z",
+            "owner": "chilts",
+            "repo": "koa-pg",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-redis-pool",
+          "description": "Redis中间件，支持连接池。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-03T14:26:09Z",
+            "owner": "nswbmw",
+            "repo": "koa-redis-pool",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-waterline",
+          "description": "waterline orm中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-04-05T10:10:24Z",
+            "owner": "ptariche",
+            "repo": "koa-waterline",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "数据库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-graphql",
+          "description": "用于创建GraphQL HTTP服务器的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T05:39:34Z",
+            "owner": "graphql-community",
+            "repo": "koa-graphql",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-graphiql",
+          "description": "Koa 中间件用于显示GraphiQL，一个交互式 GraphQL UI。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-06T12:31:06Z",
+            "owner": "expo",
+            "repo": "koa-graphiql",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Graphql"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-compress",
+          "description": "用于压缩的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T19:29:56Z",
+            "owner": "koajs",
+            "repo": "compress",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-compressor",
+          "description": "SPDY/HTTP2压缩中间件 (总是gzips)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-10-07T12:15:45Z",
+            "owner": "koajs",
+            "repo": "compressor",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kompression",
+          "description": "koa-compress的fork版本，用于支持brotli压缩",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-16T04:34:48Z",
+            "owner": "tuananh",
+            "repo": "kompression",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-minify",
+          "description": "将 js、css、html 和 img最小化的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-12T13:29:44Z",
+            "owner": "coderaiser",
+            "repo": "koa-minify",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-uglify2",
+          "description": "带有缓存的 js 的uglify中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-11-18T22:38:21Z",
+            "owner": "grayleonard",
+            "repo": "koa-uglify2",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "压缩"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-session",
+          "description": "简单基于Cookie的Session中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-06T22:00:42Z",
+            "owner": "koajs",
+            "repo": "session",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-generic-session",
+          "description": "基于内存、redis或其他的Session存储中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-31T19:20:17Z",
+            "owner": "koajs",
+            "repo": "generic-session",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-redis",
+          "description": "使用Redis的Koa Session。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-19T06:02:20Z",
+            "owner": "koajs",
+            "repo": "koa-redis",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-session2",
+          "description": "Koa2 的中间件，用于获取/设置与自定义存储（如 Redis 或 mongodb）一起使用的会话。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-10T01:43:13Z",
+            "owner": "Secbone",
+            "repo": "koa-session2",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-session-minimal",
+          "description": "对的重写，支持其核心功能和存储。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-12T23:52:17Z",
+            "owner": "lzztt",
+            "repo": "koa-session-minimal",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-redis-session-sets",
+          "description": "带有字段引用交叉集的 Koa Redis Session。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-27T09:45:51Z",
+            "owner": "koajs",
+            "repo": "redis-session-sets",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Session"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-cash",
+          "description": "Koa 的 HTTP 响应缓存。支持 Redis、内存存储等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-11T10:28:06Z",
+            "owner": "koajs",
+            "repo": "cash",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-etag",
+          "description": "为Koa响应提供Etag功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T22:53:17Z",
+            "owner": "koajs",
+            "repo": "etag",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-conditional-get",
+          "description": "条件Get，用于判断是否新鲜。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T16:03:04Z",
+            "owner": "koajs",
+            "repo": "conditional-get",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-cache-lite",
+          "description": "零依赖的Koa路由缓存。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-08T11:25:53Z",
+            "owner": "mkozjak",
+            "repo": "koa-cache-lite",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-router-cache",
+          "description": "路由缓存中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-03T14:28:21Z",
+            "owner": "nswbmw",
+            "repo": "koa-router-cache",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "缓存"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rate-limiter-flexible",
+          "description": "在单进程或分布式环境中按原子增量Key限制请求以防止任何规模的 DDoS 和暴力攻击。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-08T17:55:21Z",
+            "owner": "animir",
+            "repo": "node-rate-limiter-flexible",
+            "stars": 3579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-ratelimit",
+          "description": "限流中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-05T19:54:42Z",
+            "owner": "koajs",
+            "repo": "ratelimit",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-better-ratelimit",
+          "description": "支持自定义存储、自定义 ID、自定义错误消息和自定义头。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-23T18:06:36Z",
+            "owner": "tunnckoCore",
+            "repo": "koa-better-ratelimit",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-ip-filter",
+          "description": "Koa 中间件，可使用glob模式、数组、字符串、正则表达式或匹配器函数过滤请求 IP 或自定义 ID。 支持自定义 403 Forbidden 消息和自定义 ID。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-13T21:39:02Z",
+            "owner": "tunnckoCore",
+            "repo": "koa-ip-filter",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "限流"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-swagger-decorator",
+          "description": "使用装饰器为 koa-router 自动生成 swagger 文档。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-22T07:25:16Z",
+            "owner": "Cody2333",
+            "repo": "koa-swagger-decorator",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swagger2-koa",
+          "description": "使用 swagger2 的 Koa 2 中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T10:06:41Z",
+            "owner": "carlansley",
+            "repo": "swagger2-koa",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-docs",
+          "description": "用于自动生成和提供API文档的Koa中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-20T17:42:15Z",
+            "owner": "a-s-o",
+            "repo": "koa-docs",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-joi-swagger",
+          "description": "使用 joi 模式验证请求和响应，并生成 swagger 文档以创建漂亮的 API 文档。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-13T08:41:39Z",
+            "owner": "zaaack",
+            "repo": "koa-joi-swagger",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swagger-koa",
+          "description": "Swagger + Koa = {swagger-koa}",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-06T08:22:30Z",
+            "owner": "janvotava",
+            "repo": "swagger-koa",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "文档"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@koa/cors",
+          "description": "跨域资源共享（CORS）for koa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-02T23:01:34Z",
+            "owner": "koajs",
+            "repo": "cors",
+            "stars": 743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-helmet",
+          "description": "提供重要的安全头header，使您的应用默认更安全。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-10T01:53:50Z",
+            "owner": "venables",
+            "repo": "koa-helmet",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-csrf",
+          "description": "CSRF tokens。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-02T05:14:19Z",
+            "owner": "koajs",
+            "repo": "csrf",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-cors",
+          "description": "Koa 的 CORS 中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-30T08:06:16Z",
+            "owner": "evert0n",
+            "repo": "koa-cors",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-roles",
+          "description": "Koa版本的connect-roles。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-03T18:59:13Z",
+            "owner": "koajs",
+            "repo": "koa-roles",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-rbac",
+          "description": "用于Koa的基于角色的权限访问控制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-28T19:27:47Z",
+            "owner": "yanickrochon",
+            "repo": "koa-rbac",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-lusca",
+          "description": "Koa版本的lusca，用于Koa的应用安全。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T07:46:12Z",
+            "owner": "koajs",
+            "repo": "koa-lusca",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-authz",
+          "description": "用于Koa2，基于Casbin的授权中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T19:15:01Z",
+            "owner": "apache",
+            "repo": "casbin-node-casbin-koa-authz",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-ip",
+          "description": "用于Koa的Ip过滤中间件。支持白名单和黑名单。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-25T13:57:48Z",
+            "owner": "nswbmw",
+            "repo": "koa-ip",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-ip-filter",
+          "description": "koa 的中间件，它使用 和 根据 glob 模式、RegExp、字符串或 glob 数组过滤 IP。 支持自定义 403 Forbidden 消息和自定义 ID。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-13T21:39:02Z",
+            "owner": "tunnckoCore",
+            "repo": "koa-ip-filter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-protect",
+          "description": "用于koa应用的安全模块。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-28T20:17:16Z",
+            "owner": "may215",
+            "repo": "koa-protect",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-acl",
+          "description": "用于Koa的访问控制列表(ACL)中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-28T19:27:44Z",
+            "owner": "Jackong",
+            "repo": "koa-acl",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "安全"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cabin",
+          "description": "Node.js、Lad、Koa、Express 和 Passport 的日志记录/分析服务和中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-26T09:57:04Z",
+            "owner": "cabinjs",
+            "repo": "cabin",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-logger",
+          "description": "开发风格日志中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-13T00:45:08Z",
+            "owner": "koajs",
+            "repo": "logger",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "concurrency-logger",
+          "description": "分别记录 HTTP 请求/响应，将它们的并发可视化并在请求的上下文中报告日志/错误。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-08T20:36:54Z",
+            "owner": "pablosichert",
+            "repo": "concurrency-logger",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-bunyan-logger",
+          "description": "使用Bunyan请求日志的Koa中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-09T13:45:30Z",
+            "owner": "koajs",
+            "repo": "bunyan-logger",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-pino-logger",
+          "description": "Pino日志中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-06T10:23:50Z",
+            "owner": "pinojs",
+            "repo": "koa-pino-logger",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-log4",
+          "description": "基于log4js-node封装的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-27T08:58:59Z",
+            "owner": "dominhhai",
+            "repo": "koa-log4js",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-morgan",
+          "description": "基于Morgan的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-25T08:39:35Z",
+            "owner": "koa-modules",
+            "repo": "morgan",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-json-logger",
+          "description": "HTTP请求/响应/错误的JSON格式的日志。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-14T12:04:09Z",
+            "owner": "rudijs",
+            "repo": "koa-json-logger",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-bunyan",
+          "description": "使用node-bunyan的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-13T12:59:50Z",
+            "owner": "ivpusic",
+            "repo": "koa-bunyan",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-accesslog",
+          "description": "通用日志格式访问日志的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-31T02:20:05Z",
+            "owner": "koajs",
+            "repo": "accesslog",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "日志"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-onerror",
+          "description": "Koa 的错误处理程序，hack ctx.onerror。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-02T12:26:03Z",
+            "owner": "koajs",
+            "repo": "onerror",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-error",
+          "description": "错误响应中间件(支持返回text, json, html模板引擎).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-20T03:14:23Z",
+            "owner": "koajs",
+            "repo": "error",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-json-error",
+          "description": "纯 JSON 应用程序的错误处理程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-20T06:37:59Z",
+            "owner": "koajs",
+            "repo": "json-error",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-errorhandler",
+          "description": "Koa 的错误处理程序中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-26T15:52:53Z",
+            "owner": "nswbmw",
+            "repo": "koa-errorhandler",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-error-slack",
+          "description": "发送 Koa 错误到 Slack。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-24T01:14:12Z",
+            "owner": "rturk",
+            "repo": "koa-error-slack",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "错误报告"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koa-locales",
+          "description": "i18n解决方案。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T10:18:16Z",
+            "owner": "koajs",
+            "repo": "locales",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-i18n",
+          "description": "基于 i18n-2 的轻量级简单翻译中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-03T14:03:44Z",
+            "owner": "koa-modules",
+            "repo": "i18n",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koa-locale",
+          "description": "从查询参数、子域名、accept-languages或 cookie 中获取区域设置变量。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-28T08:51:41Z",
+            "owner": "koa-modules",
+            "repo": "locale",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "i18n"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:22.513Z",
+    "original_repository": "huaize2020/awesome-koa",
+    "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",
+    "enhanced_repository": "enhansome/enhansome-koa",
+    "enhanced_repository_description": null,
+    "title": "Awesome koa with stars"
+  }
+}

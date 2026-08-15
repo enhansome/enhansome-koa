@@ -67,10 +67,10 @@
 ### 框架
 
 * [Egg](https://github.com/eggjs/egg) ⭐ 18,986 | 🐛 408 | 🌐 TypeScript | 📅 2026-08-07 - 为企业级框架和应用而生。 ![](https://img.shields.io/github/stars/eggjs/egg.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/egg.svg?style=flat-square)
-* [midway](https://github.com/midwayjs/midway) ⭐ 7,738 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-14 - 面向前端/全栈开发人员的 Node.js Serverless框架。 Midway 可以使用 koa、express 或 EggJS 作为基本的 web 框架。 ![](https://img.shields.io/github/stars/midwayjs/midway.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/midway.svg?style=flat-square)
+* [midway](https://github.com/midwayjs/midway) ⭐ 7,739 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-15 - 面向前端/全栈开发人员的 Node.js Serverless框架。 Midway 可以使用 koa、express 或 EggJS 作为基本的 web 框架。 ![](https://img.shields.io/github/stars/midwayjs/midway.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/midway.svg?style=flat-square)
 * [ThinkJS](https://github.com/thinkjs/thinkjs) ⭐ 5,269 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-07 - 支持ES2015 +的框架, 支持TypeScript。 ![](https://img.shields.io/github/stars/thinkjs/thinkjs.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/thinkjs.svg?style=flat-square)
 * [lad](https://github.com/ladjs/lad) ⭐ 2,287 | 🐛 61 | 🌐 JavaScript | 📅 2025-11-29 - 最好的Node.js框架，由前Express和Koa团队成员创建。 ![](https://img.shields.io/github/stars/ladjs/lad.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/lad.svg?style=flat-square)
-* [CabloyJS](https://github.com/zhennann/Cabloy) ⭐ 970 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-14 - 一款自带工作流引擎的Node.js全栈框架, 基于koa + egg + vue + framework7. ![](https://img.shields.io/github/stars/zhennann/Cabloy.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/cabloy.svg?style=flat-square)
+* [CabloyJS](https://github.com/zhennann/Cabloy) ⭐ 970 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - 一款自带工作流引擎的Node.js全栈框架, 基于koa + egg + vue + framework7. ![](https://img.shields.io/github/stars/zhennann/Cabloy.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/cabloy.svg?style=flat-square)
 * [koatty](https://github.com/Koatty/koatty) ⭐ 128 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-26 - Koa2 + Typescript = Koatty。使用Typescript装饰器实现了控制反转和面向切面编程。 ![](https://img.shields.io/github/stars/Koatty/koatty.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koatty.svg?style=flat-square)
 
 ### 案例 & 样板程序
@@ -81,7 +81,7 @@
 
 ### 内容管理系统 (CMS)
 
-* [Strapi](https://github.com/strapi/strapi) ⭐ 72,909 | 🐛 537 | 🌐 TypeScript | 📅 2026-08-14 - 用于构建强大 API 的内容管理框架 (headless-CMS)。 ![](https://img.shields.io/github/stars/strapi/strapi.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/strapi.svg?style=flat-square)
+* [Strapi](https://github.com/strapi/strapi) ⭐ 72,930 | 🐛 540 | 🌐 TypeScript | 📅 2026-08-14 - 用于构建强大 API 的内容管理框架 (headless-CMS)。 ![](https://img.shields.io/github/stars/strapi/strapi.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/strapi.svg?style=flat-square)
 
 ### 中间件
 
@@ -179,7 +179,7 @@
 * [koa-66](https://github.com/menems/koa-66) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2017-02-25 - 用于koa v2路由。 ![](https://img.shields.io/github/stars/menems/koa-66.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-66.svg?style=flat-square)
 * [koa-combine-routers](https://github.com/saadq/koa-combine-routers) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-02 - 组合多个[@koa/router](https://github.com/koajs/koa-router) ⭐ 911 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-07实例。 ![](https://img.shields.io/github/stars/saadq/koa-combine-routers.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-combine-routers.svg?style=flat-square)
 * [koa-mapper](https://github.com/d-band/koa-mapper) ⭐ 40 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-17 - 更好的路由器支持参数验证和 OpenAPI 生成。 ![](https://img.shields.io/github/stars/d-band/koa-mapper.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-mapper.svg?style=flat-square)
-* [koa-react-router](https://github.com/afenton90/koa-react-router) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-29 - koa 2 中间件，用于 React 服务器端渲染和路由使用 [react-router](https://github.com/ReactTraining/react-router) ⭐ 56,551 | 🐛 171 | 🌐 TypeScript | 📅 2026-08-07 ![](https://img.shields.io/github/stars/afenton90/koa-react-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-react-router.svg)
+* [koa-react-router](https://github.com/afenton90/koa-react-router) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-29 - koa 2 中间件，用于 React 服务器端渲染和路由使用 [react-router](https://github.com/ReactTraining/react-router) ⭐ 56,550 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-07 ![](https://img.shields.io/github/stars/afenton90/koa-react-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-react-router.svg)
 * [koa-path-match](https://github.com/koajs/path-match) ⭐ 37 | 🐛 10 | 🌐 JavaScript | 📅 2026-01-28 - Koa路由中间件。 ![](https://img.shields.io/github/stars/koajs/path-match.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-path-match.svg?style=flat-square)
 * [koa-params](https://github.com/segmentio/koa-params) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2014-04-12 - 对 koa-route 的 Express 样式参数支持。 ![](https://img.shields.io/github/stars/segmentio/koa-params.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-params.svg?style=flat-square)
 * [koa-frouter](https://github.com/MangroveTech/koa-frouter) ⭐ 23 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-04 - File as `path`. ![](https://img.shields.io/github/stars/MangroveTech/koa-frouter.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-frouter.svg?style=flat-square)
@@ -226,7 +226,7 @@
 
 #### 压缩
 
-* [koa-compress](https://github.com/koajs/compress) ⭐ 442 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-30 - 用于压缩的中间件。 ![](https://img.shields.io/github/stars/koajs/compress.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-compress.svg?style=flat-square)
+* [koa-compress](https://github.com/koajs/compress) ⭐ 442 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-15 - 用于压缩的中间件。 ![](https://img.shields.io/github/stars/koajs/compress.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-compress.svg?style=flat-square)
 * [koa-compressor](https://github.com/koajs/compressor) ⚠️ Archived - SPDY/HTTP2压缩中间件 (总是gzips) ![](https://img.shields.io/github/stars/koajs/compressor.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-compressor.svg?style=flat-square)
 * [kompression](https://github.com/tuananh/kompression) ⚠️ Archived - koa-compress的fork版本，用于支持brotli压缩 ![](https://img.shields.io/github/stars/tuananh/kompression.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/kompression.svg?style=flat-square)
 * [koa-minify](https://github.com/coderaiser/koa-minify) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-12 - 将 js、css、html 和 img最小化的中间件。![](https://img.shields.io/github/stars/coderaiser/koa-minify.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-minify.svg?style=flat-square)
@@ -320,4 +320,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

@@ -83,10 +83,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:46:04Z",
+            "last_commit": "2026-08-15T06:09:03Z",
             "owner": "midwayjs",
             "repo": "midway",
-            "stars": 7738
+            "stars": 7739
           }
         },
         {
@@ -125,7 +125,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:53:52Z",
+            "last_commit": "2026-08-15T04:30:20Z",
             "owner": "cabloy",
             "repo": "cabloy",
             "stars": 970
@@ -1762,7 +1762,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-30T19:29:56Z",
+            "last_commit": "2026-08-15T09:02:45Z",
             "owner": "koajs",
             "repo": "compress",
             "stars": 442
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:17:06.132Z",
+    "last_updated": "2026-08-15T23:15:34.341Z",
     "original_repository": "huaize2020/awesome-koa",
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",
     "enhanced_repository": "enhansome/enhansome-koa",

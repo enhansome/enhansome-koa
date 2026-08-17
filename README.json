@@ -72,7 +72,7 @@
             "last_commit": "2026-08-07T12:08:56Z",
             "owner": "eggjs",
             "repo": "egg",
-            "stars": 18986
+            "stars": 18987
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2026-08-16T09:16:17Z",
             "owner": "midwayjs",
             "repo": "midway",
-            "stars": 7739
+            "stars": 7738
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2025-11-29T09:38:14Z",
             "owner": "ladjs",
             "repo": "lad",
-            "stars": 2287
+            "stars": 2286
           }
         },
         {
@@ -125,7 +125,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:20:44Z",
+            "last_commit": "2026-08-17T05:57:56Z",
             "owner": "cabloy",
             "repo": "cabloy",
             "stars": 970
@@ -412,7 +412,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-04T06:52:51Z",
+            "last_commit": "2026-08-17T06:54:08Z",
             "owner": "koajs",
             "repo": "koa-body",
             "stars": 955
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:14:49.179Z",
+    "last_updated": "2026-08-17T23:18:46.306Z",
     "original_repository": "huaize2020/awesome-koa",
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",
     "enhanced_repository": "enhansome/enhansome-koa",

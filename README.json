@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T12:48:44Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35687
+            "stars": 35688
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T12:48:44Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35687
+            "stars": 35688
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-11T12:48:44Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35687
+            "stars": 35688
           }
         }
       ],
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-16T09:16:17Z",
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7740
+                "stars": 7741
               }
             },
             {
@@ -689,7 +689,7 @@
                     "last_commit": "2018-09-19T15:53:56Z",
                     "owner": "dominicbarnes",
                     "repo": "koa-handlebars",
-                    "stars": 45
+                    "stars": 44
                   }
                 },
                 {
@@ -921,7 +921,7 @@
                     "last_commit": "2025-04-10T23:10:49Z",
                     "owner": "koajs",
                     "repo": "static-cache",
-                    "stars": 292
+                    "stars": 291
                   }
                 },
                 {
@@ -981,7 +981,7 @@
                     "last_commit": "2016-03-24T12:01:07Z",
                     "owner": "koajs",
                     "repo": "file-server",
-                    "stars": 38
+                    "stars": 37
                   }
                 },
                 {
@@ -1228,7 +1228,7 @@
                     "last_commit": "2024-09-16T00:22:04Z",
                     "owner": "koajs",
                     "repo": "rewrite",
-                    "stars": 99
+                    "stars": 98
                   }
                 },
                 {
@@ -1752,7 +1752,7 @@
                     "last_commit": "2021-01-18T02:02:57Z",
                     "owner": "nswbmw",
                     "repo": "koa-mongo",
-                    "stars": 143
+                    "stars": 142
                   }
                 },
                 {
@@ -2147,7 +2147,7 @@
                     "last_commit": "2026-06-08T17:55:21Z",
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3582
+                    "stars": 3581
                   }
                 },
                 {
@@ -2341,7 +2341,7 @@
                     "last_commit": "2017-09-30T08:06:16Z",
                     "owner": "evert0n",
                     "repo": "koa-cors",
-                    "stars": 244
+                    "stars": 243
                   }
                 },
                 {
@@ -2770,7 +2770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:18:36.719Z",
+    "last_updated": "2026-08-20T23:20:50.714Z",
     "original_repository": "huaize2020/awesome-koa",
     "original_repository_id": 399323380,
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",

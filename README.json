@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 117403675,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T23:00:03Z",
+                "last_commit": "2026-08-24T03:28:48Z",
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 970
@@ -202,6 +202,28 @@
           "description": null,
           "node_type": "group",
           "title": "案例 & 样板程序"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Strapi",
+              "description": "用于构建强大 API 的内容管理框架 (headless-CMS)。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43441403,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:40:45Z",
+                "owner": "strapi",
+                "repo": "strapi",
+                "stars": 73010
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "内容管理系统 (CMS)"
         },
         {
           "children": [
@@ -2055,6 +2077,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "koa-cookie",
+                  "description": "Cookie解析中间件。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66450079,
+                    "language": "JavaScript",
+                    "last_commit": "2018-06-19T10:56:45Z",
+                    "owner": "varunpal",
+                    "repo": "koa-cookie",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cookies"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "koa-cash",
                   "description": "Koa 的 HTTP 响应缓存。支持 Redis、内存存储等。",
                   "children": [],
@@ -2132,6 +2176,28 @@
               "description": null,
               "node_type": "group",
               "title": "缓存"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "koa-easy-ws",
+                  "description": "一个简单处理WebSocket的简单中间件。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134632449,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-08T14:58:42Z",
+                    "owner": "b3nsn0w",
+                    "repo": "koa-easy-ws",
+                    "stars": 76
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "WebSocket"
             },
             {
               "children": [
@@ -2759,6 +2825,28 @@
               "description": null,
               "node_type": "group",
               "title": "i18n"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "koa-cluster",
+                  "description": "Koa集群和错误处理工具。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18578379,
+                    "language": "JavaScript",
+                    "last_commit": "2021-10-29T10:43:20Z",
+                    "owner": "koajs",
+                    "repo": "cluster",
+                    "stars": 64
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "部署"
             }
           ],
           "description": null,
@@ -2770,7 +2858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:16:18.247Z",
+    "last_updated": "2026-08-24T14:41:14.984Z",
     "original_repository": "huaize2020/awesome-koa",
     "original_repository_id": 399323380,
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",

@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11551538,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T06:18:00Z",
+            "last_commit": "2026-08-25T07:16:44Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35689
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 11551538,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T06:18:00Z",
+            "last_commit": "2026-08-25T07:16:44Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35689
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 11551538,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T06:18:00Z",
+            "last_commit": "2026-08-25T07:16:44Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35689
           }
         }
       ],
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 140669486,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:48:28Z",
+                "last_commit": "2026-08-25T14:38:10Z",
                 "owner": "midwayjs",
                 "repo": "midway",
                 "stars": 7741
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 117403675,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:41:11Z",
+                "last_commit": "2026-08-25T09:06:43Z",
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 970
@@ -214,10 +214,10 @@
                 "archived": false,
                 "id": 43441403,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:03:21Z",
+                "last_commit": "2026-08-25T16:38:16Z",
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73012
+                "stars": 73017
               }
             }
           ],
@@ -472,7 +472,7 @@
                     "last_commit": "2026-02-21T23:40:59Z",
                     "owner": "tunnckoCore",
                     "repo": "opensource",
-                    "stars": 487
+                    "stars": 486
                   }
                 },
                 {
@@ -2858,7 +2858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:24.087Z",
+    "last_updated": "2026-08-25T23:21:00.297Z",
     "original_repository": "huaize2020/awesome-koa",
     "original_repository_id": 399323380,
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",

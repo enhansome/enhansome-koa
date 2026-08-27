@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T03:22:12Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35689
+            "stars": 35690
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T03:22:12Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35689
+            "stars": 35690
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-26T03:22:12Z",
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35689
+            "stars": 35690
           }
         }
       ],
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 117403675,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:37:29Z",
+                "last_commit": "2026-08-27T10:27:49Z",
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 970
@@ -214,10 +214,10 @@
                 "archived": false,
                 "id": 43441403,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:52:02Z",
+                "last_commit": "2026-08-27T11:22:52Z",
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73017
+                "stars": 73018
               }
             }
           ],
@@ -2609,7 +2609,7 @@
                     "last_commit": "2025-10-06T10:23:50Z",
                     "owner": "pinojs",
                     "repo": "koa-pino-logger",
-                    "stars": 101
+                    "stars": 102
                   }
                 },
                 {
@@ -2858,9 +2858,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:11:38.176Z",
-    "original_repository": "huaize2020/awesome-koa",
-    "original_repository_id": 399323380,
+    "last_updated": "2026-08-27T11:46:24.061Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 399323380,
+      "language": null,
+      "last_commit": "2021-12-31T03:31:24Z",
+      "owner": "huaize2020",
+      "repo": "awesome-koa",
+      "stars": 84
+    },
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",
     "enhanced_repository": "enhansome/enhansome-koa",
     "enhanced_repository_description": null,

@@ -16,7 +16,8 @@
             "owner": "koajs",
             "repo": "koa",
             "stars": 35690
-          }
+          },
+          "first_seen": "2026-08-28T06:28:24.863Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "koajs",
             "repo": "koa",
             "stars": 35690
-          }
+          },
+          "first_seen": "2026-08-28T06:28:24.863Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "koajs",
             "repo": "koa",
             "stars": 35690
-          }
+          },
+          "first_seen": "2026-08-28T06:28:24.863Z"
         }
       ],
       "title": "官方文档"
@@ -69,7 +72,8 @@
                 "owner": "eggjs",
                 "repo": "egg",
                 "stars": 18985
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -80,11 +84,12 @@
                 "archived": false,
                 "id": 140669486,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:26:15Z",
+                "last_commit": "2026-08-27T15:49:11Z",
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7742
-              }
+                "stars": 7743
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "thinkjs",
                 "repo": "thinkjs",
                 "stars": 5268
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "ladjs",
                 "repo": "lad",
                 "stars": 2287
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -125,11 +132,12 @@
                 "archived": false,
                 "id": 117403675,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:27:49Z",
+                "last_commit": "2026-08-28T05:04:51Z",
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 970
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "Koatty",
                 "repo": "koatty",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             }
           ],
           "description": null,
@@ -166,7 +175,8 @@
                 "owner": "javieraviles",
                 "repo": "node-typescript-koa-rest",
                 "stars": 1015
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "posquit0",
                 "repo": "koa-rest-api-boilerplate",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "dbalas",
                 "repo": "koalerplate",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             }
           ],
           "description": null,
@@ -214,11 +226,12 @@
                 "archived": false,
                 "id": 43441403,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:22:52Z",
+                "last_commit": "2026-08-27T18:07:53Z",
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73018
-              }
+                "stars": 73022
+              },
+              "first_seen": "2026-08-28T06:28:24.863Z"
             }
           ],
           "description": null,
@@ -242,7 +255,8 @@
                     "owner": "koajs",
                     "repo": "json",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -257,7 +271,8 @@
                     "owner": "koajs",
                     "repo": "json-filter",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -272,7 +287,8 @@
                     "owner": "nemtsov",
                     "repo": "koa-json-mask",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -287,7 +303,8 @@
                     "owner": "koajs",
                     "repo": "is-json",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -309,7 +326,8 @@
                     "owner": "kilianc",
                     "repo": "koa-jsonp",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -324,7 +342,8 @@
                     "owner": "koajs",
                     "repo": "koa-safe-jsonp",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +358,8 @@
                     "owner": "keenwon",
                     "repo": "koa-response-jsonp",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -361,7 +381,8 @@
                     "owner": "yosssi",
                     "repo": "koa-stylus",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -376,7 +397,8 @@
                     "owner": "adamkdean",
                     "repo": "koa-scss",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -391,7 +413,8 @@
                     "owner": "chosecz",
                     "repo": "koa-less",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -406,7 +429,8 @@
                     "owner": "HowlingEverett",
                     "repo": "koa-postcss",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -421,7 +445,8 @@
                     "owner": "elquimista",
                     "repo": "koa-sass",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -443,7 +468,8 @@
                     "owner": "koajs",
                     "repo": "bodyparser",
                     "stars": 1325
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -458,7 +484,8 @@
                     "owner": "koajs",
                     "repo": "koa-body",
                     "stars": 955
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -473,7 +500,8 @@
                     "owner": "tunnckoCore",
                     "repo": "opensource",
                     "stars": 486
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -488,7 +516,8 @@
                     "owner": "koa-modules",
                     "repo": "multer",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +532,8 @@
                     "owner": "koajs",
                     "repo": "body-parsers",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +548,8 @@
                     "owner": "creeperyang",
                     "repo": "koa-xml-body",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -533,7 +564,8 @@
                     "owner": "dominhhai",
                     "repo": "koa-busboy",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -548,7 +580,8 @@
                     "owner": "venables",
                     "repo": "koa-json-body",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -570,7 +603,8 @@
                     "owner": "koajs",
                     "repo": "compose",
                     "stars": 1020
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -585,7 +619,8 @@
                     "owner": "koajs",
                     "repo": "convert",
                     "stars": 251
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -600,7 +635,8 @@
                     "owner": "vkurchatkin",
                     "repo": "koa-connect",
                     "stars": 170
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -615,7 +651,8 @@
                     "owner": "rvboris",
                     "repo": "koa-useragent",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -637,7 +674,8 @@
                     "owner": "queckezz",
                     "repo": "koa-views",
                     "stars": 706
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -652,7 +690,8 @@
                     "owner": "koajs",
                     "repo": "react-view",
                     "stars": 258
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -667,7 +706,8 @@
                     "owner": "koajs",
                     "repo": "ejs",
                     "stars": 248
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -682,7 +722,8 @@
                     "owner": "koajs",
                     "repo": "koa-hbs",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -697,7 +738,8 @@
                     "owner": "chrisyip",
                     "repo": "koa-pug",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -712,7 +754,8 @@
                     "owner": "dominicbarnes",
                     "repo": "koa-handlebars",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -727,7 +770,8 @@
                     "owner": "imingyu",
                     "repo": "koa-vue-view",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -742,7 +786,8 @@
                     "owner": "koa-modules",
                     "repo": "swig",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -757,7 +802,8 @@
                     "owner": "d-band",
                     "repo": "koa-view",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -772,7 +818,8 @@
                     "owner": "juliangruber",
                     "repo": "koa-dom",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -787,7 +834,8 @@
                     "owner": "beliefgp",
                     "repo": "koa-nunjucks-next",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -802,7 +850,8 @@
                     "owner": "zce",
                     "repo": "koa-xtpl",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -817,7 +866,8 @@
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -832,7 +882,8 @@
                     "owner": "nswbmw",
                     "repo": "co-ejs",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -847,7 +898,8 @@
                     "owner": "DigitalIO",
                     "repo": "koajs-nunjucks",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -862,7 +914,8 @@
                     "owner": "JiangJie",
                     "repo": "koa-swig-render",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -877,7 +930,8 @@
                     "owner": "artdecocode",
                     "repo": "koa2-jsx",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -892,7 +946,8 @@
                     "owner": "koahubjs",
                     "repo": "koahub-handlebars",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -914,7 +969,8 @@
                     "owner": "koajs",
                     "repo": "static",
                     "stars": 1147
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -929,7 +985,8 @@
                     "owner": "koajs",
                     "repo": "send",
                     "stars": 433
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -944,7 +1001,8 @@
                     "owner": "koajs",
                     "repo": "static-cache",
                     "stars": 291
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -959,7 +1017,8 @@
                     "owner": "koajs",
                     "repo": "favicon",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -974,7 +1033,8 @@
                     "owner": "pkoretic",
                     "repo": "koa-static-server",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -989,7 +1049,8 @@
                     "owner": "koajs",
                     "repo": "sendfile",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1004,7 +1065,8 @@
                     "owner": "koajs",
                     "repo": "file-server",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1019,7 +1081,8 @@
                     "owner": "claudetech",
                     "repo": "koa-stream",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1034,7 +1097,8 @@
                     "owner": "tunnckoCore",
                     "repo": "koa-better-serve",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1049,7 +1113,8 @@
                     "owner": "ktmud",
                     "repo": "koa-spa",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1064,7 +1129,8 @@
                     "owner": "koa-modules",
                     "repo": "serve-static",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1079,7 +1145,8 @@
                     "owner": "Secbone",
                     "repo": "koa-static2",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1094,7 +1161,8 @@
                     "owner": "janpieterz",
                     "repo": "koajs-static-folder",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1109,7 +1177,8 @@
                     "owner": "koa-modules",
                     "repo": "serve-list",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1124,7 +1193,8 @@
                     "owner": "adamkdean",
                     "repo": "koa-serve",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -1146,7 +1216,8 @@
                     "owner": "koajs",
                     "repo": "router",
                     "stars": 911
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1161,7 +1232,8 @@
                     "owner": "koajs",
                     "repo": "mount",
                     "stars": 553
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1176,7 +1248,8 @@
                     "owner": "koajs",
                     "repo": "joi-router",
                     "stars": 451
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1191,7 +1264,8 @@
                     "owner": "koajs",
                     "repo": "route",
                     "stars": 447
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1206,7 +1280,8 @@
                     "owner": "steambap",
                     "repo": "koa-tree-router",
                     "stars": 139
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1221,7 +1296,8 @@
                     "owner": "koajs",
                     "repo": "trie-router",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1236,7 +1312,8 @@
                     "owner": "oaijs",
                     "repo": "koa-oai-router",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1251,7 +1328,8 @@
                     "owner": "koajs",
                     "repo": "rewrite",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1266,7 +1344,8 @@
                     "owner": "tunnckoCore",
                     "repo": "koa-better-router",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1281,7 +1360,8 @@
                     "owner": "koajs",
                     "repo": "qs",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1296,7 +1376,8 @@
                     "owner": "tunnckoCore",
                     "repo": "koa-rest-router",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1311,7 +1392,8 @@
                     "owner": "menems",
                     "repo": "koa-66",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1326,7 +1408,8 @@
                     "owner": "saadq",
                     "repo": "koa-combine-routers",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1341,7 +1424,8 @@
                     "owner": "d-band",
                     "repo": "koa-mapper",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1356,7 +1440,8 @@
                     "owner": "afenton90",
                     "repo": "koa-react-router",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1371,7 +1456,8 @@
                     "owner": "koajs",
                     "repo": "path-match",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1386,7 +1472,8 @@
                     "owner": "segment-boneyard",
                     "repo": "koa-params",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1401,7 +1488,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-frouter",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1416,7 +1504,8 @@
                     "owner": "zaaack",
                     "repo": "koa-dec-router",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1431,7 +1520,8 @@
                     "owner": "ivpusic",
                     "repo": "koa-routing",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1446,7 +1536,8 @@
                     "owner": "blakeembrey",
                     "repo": "kroute",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1461,7 +1552,8 @@
                     "owner": "koa-modules",
                     "repo": "methodoverride",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1476,7 +1568,8 @@
                     "owner": "gyson",
                     "repo": "koa-simple-router",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1491,7 +1584,8 @@
                     "owner": "Student007",
                     "repo": "koa-sub-domain",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1506,7 +1600,8 @@
                     "owner": "xinpianchang",
                     "repo": "koa2-router",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1521,7 +1616,8 @@
                     "owner": "giall",
                     "repo": "koa-joi-controllers",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1536,7 +1632,8 @@
                     "owner": "magicdawn",
                     "repo": "impress-router",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1551,7 +1648,8 @@
                     "owner": "TehShrike",
                     "repo": "koa-bestest-router",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1566,7 +1664,8 @@
                     "owner": "zedgu",
                     "repo": "koa-ovenware",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1581,7 +1680,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-forward-request",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1596,7 +1696,8 @@
                     "owner": "nervgh",
                     "repo": "koa-architect",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -1618,7 +1719,8 @@
                     "owner": "koajs",
                     "repo": "jwt",
                     "stars": 1350
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1633,7 +1735,8 @@
                     "owner": "rkusa",
                     "repo": "koa-passport",
                     "stars": 771
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1648,7 +1751,8 @@
                     "owner": "koajs",
                     "repo": "basic-auth",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1663,7 +1767,8 @@
                     "owner": "chentsulin",
                     "repo": "koa-bearer-token",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1678,7 +1783,8 @@
                     "owner": "jchannon",
                     "repo": "koa-statelessauth",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1693,7 +1799,8 @@
                     "owner": "nealnote",
                     "repo": "koa-weixin-token",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1708,7 +1815,8 @@
                     "owner": "danhper",
                     "repo": "koa-police",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1723,7 +1831,8 @@
                     "owner": "miserylee",
                     "repo": "koa-jwt-mongo",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1738,7 +1847,8 @@
                     "owner": "Gerhut",
                     "repo": "koa-http-auth",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1753,7 +1863,8 @@
                     "owner": "uhop",
                     "repo": "koa-cognito-middleware",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -1775,7 +1886,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-mongo",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1790,7 +1902,8 @@
                     "owner": "d-band",
                     "repo": "koa-orm",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1805,7 +1918,8 @@
                     "owner": "uphold",
                     "repo": "koa-pagination",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1820,7 +1934,8 @@
                     "owner": "chilts",
                     "repo": "koa-pg",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1835,7 +1950,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-redis-pool",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1850,7 +1966,8 @@
                     "owner": "ptariche",
                     "repo": "koa-waterline",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -1872,7 +1989,8 @@
                     "owner": "graphql-community",
                     "repo": "koa-graphql",
                     "stars": 840
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1887,7 +2005,8 @@
                     "owner": "expo",
                     "repo": "koa-graphiql",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -1909,7 +2028,8 @@
                     "owner": "koajs",
                     "repo": "compress",
                     "stars": 442
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1924,7 +2044,8 @@
                     "owner": "koajs",
                     "repo": "compressor",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1939,7 +2060,8 @@
                     "owner": "tuananh",
                     "repo": "kompression",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1954,7 +2076,8 @@
                     "owner": "coderaiser",
                     "repo": "koa-minify",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -1969,7 +2092,8 @@
                     "owner": "grayleonard",
                     "repo": "koa-uglify2",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -1991,7 +2115,8 @@
                     "owner": "koajs",
                     "repo": "session",
                     "stars": 908
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2006,7 +2131,8 @@
                     "owner": "koajs",
                     "repo": "generic-session",
                     "stars": 414
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2021,7 +2147,8 @@
                     "owner": "koajs",
                     "repo": "koa-redis",
                     "stars": 353
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2036,7 +2163,8 @@
                     "owner": "Secbone",
                     "repo": "koa-session2",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2051,7 +2179,8 @@
                     "owner": "lzztt",
                     "repo": "koa-session-minimal",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2066,7 +2195,8 @@
                     "owner": "koajs",
                     "repo": "redis-session-sets",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2088,7 +2218,8 @@
                     "owner": "varunpal",
                     "repo": "koa-cookie",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2110,7 +2241,8 @@
                     "owner": "koajs",
                     "repo": "cash",
                     "stars": 157
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2125,7 +2257,8 @@
                     "owner": "koajs",
                     "repo": "etag",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2140,7 +2273,8 @@
                     "owner": "koajs",
                     "repo": "conditional-get",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2155,7 +2289,8 @@
                     "owner": "mkozjak",
                     "repo": "koa-cache-lite",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2170,7 +2305,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-router-cache",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2192,7 +2328,8 @@
                     "owner": "b3nsn0w",
                     "repo": "koa-easy-ws",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2214,7 +2351,8 @@
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
                     "stars": 3581
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2229,7 +2367,8 @@
                     "owner": "koajs",
                     "repo": "ratelimit",
                     "stars": 493
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2244,7 +2383,8 @@
                     "owner": "tunnckoCore",
                     "repo": "koa-better-ratelimit",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2259,7 +2399,8 @@
                     "owner": "tunnckoCore",
                     "repo": "koa-ip-filter",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2281,7 +2422,8 @@
                     "owner": "Cody2333",
                     "repo": "koa-swagger-decorator",
                     "stars": 354
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2296,7 +2438,8 @@
                     "owner": "carlansley",
                     "repo": "swagger2-koa",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2311,7 +2454,8 @@
                     "owner": "a-s-o",
                     "repo": "koa-docs",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2326,7 +2470,8 @@
                     "owner": "zaaack",
                     "repo": "koa-joi-swagger",
                     "stars": 74
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2341,7 +2486,8 @@
                     "owner": "janvotava",
                     "repo": "swagger-koa",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2363,7 +2509,8 @@
                     "owner": "koajs",
                     "repo": "cors",
                     "stars": 742
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2378,7 +2525,8 @@
                     "owner": "venables",
                     "repo": "koa-helmet",
                     "stars": 637
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2393,7 +2541,8 @@
                     "owner": "koajs",
                     "repo": "csrf",
                     "stars": 265
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2408,7 +2557,8 @@
                     "owner": "evert0n",
                     "repo": "koa-cors",
                     "stars": 243
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2423,7 +2573,8 @@
                     "owner": "koajs",
                     "repo": "koa-roles",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2438,7 +2589,8 @@
                     "owner": "yanickrochon",
                     "repo": "koa-rbac",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2453,7 +2605,8 @@
                     "owner": "koajs",
                     "repo": "koa-lusca",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2468,7 +2621,8 @@
                     "owner": "apache",
                     "repo": "casbin-node-casbin-koa-authz",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2483,7 +2637,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-ip",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2498,7 +2653,8 @@
                     "owner": "tunnckoCore",
                     "repo": "koa-ip-filter",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2513,7 +2669,8 @@
                     "owner": "may215",
                     "repo": "koa-protect",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2528,7 +2685,8 @@
                     "owner": "Jackong",
                     "repo": "koa-acl",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2550,7 +2708,8 @@
                     "owner": "cabinjs",
                     "repo": "cabin",
                     "stars": 890
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2565,7 +2724,8 @@
                     "owner": "koajs",
                     "repo": "logger",
                     "stars": 560
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2580,7 +2740,8 @@
                     "owner": "pablosichert",
                     "repo": "concurrency-logger",
                     "stars": 387
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2595,7 +2756,8 @@
                     "owner": "koajs",
                     "repo": "bunyan-logger",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2610,7 +2772,8 @@
                     "owner": "pinojs",
                     "repo": "koa-pino-logger",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2625,7 +2788,8 @@
                     "owner": "dominhhai",
                     "repo": "koa-log4js",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2640,7 +2804,8 @@
                     "owner": "koa-modules",
                     "repo": "morgan",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2655,7 +2820,8 @@
                     "owner": "rudijs",
                     "repo": "koa-json-logger",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2670,7 +2836,8 @@
                     "owner": "ivpusic",
                     "repo": "koa-bunyan",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2685,7 +2852,8 @@
                     "owner": "koajs",
                     "repo": "accesslog",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2707,7 +2875,8 @@
                     "owner": "koajs",
                     "repo": "onerror",
                     "stars": 141
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2722,7 +2891,8 @@
                     "owner": "koajs",
                     "repo": "error",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2737,7 +2907,8 @@
                     "owner": "koajs",
                     "repo": "json-error",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2752,7 +2923,8 @@
                     "owner": "nswbmw",
                     "repo": "koa-errorhandler",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2767,7 +2939,8 @@
                     "owner": "rturk",
                     "repo": "koa-error-slack",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2789,7 +2962,8 @@
                     "owner": "koajs",
                     "repo": "locales",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2804,7 +2978,8 @@
                     "owner": "koa-modules",
                     "repo": "i18n",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 },
                 {
                   "node_type": "item",
@@ -2819,7 +2994,8 @@
                     "owner": "koa-modules",
                     "repo": "locale",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2841,7 +3017,8 @@
                     "owner": "koajs",
                     "repo": "cluster",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:28:24.863Z"
                 }
               ],
               "description": null,
@@ -2858,7 +3035,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:24.061Z",
+    "last_updated": "2026-08-28T06:28:24.863Z",
     "original_repository_info": {
       "archived": false,
       "id": 399323380,

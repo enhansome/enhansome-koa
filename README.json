@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive middleware for node.js using ES2017 async functions",
+            "homepage": "https://koajs.com",
             "id": 11551538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:22:12Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35690,
+            "topics": [
+              "koa"
+            ]
           },
           "first_seen": "2026-08-28T06:28:24.863Z"
         },
@@ -26,12 +33,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive middleware for node.js using ES2017 async functions",
+            "homepage": "https://koajs.com",
             "id": 11551538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:22:12Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35690,
+            "topics": [
+              "koa"
+            ]
           },
           "first_seen": "2026-08-28T06:28:24.863Z"
         },
@@ -42,12 +56,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive middleware for node.js using ES2017 async functions",
+            "homepage": "https://koajs.com",
             "id": 11551538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:22:12Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35690,
+            "topics": [
+              "koa"
+            ]
           },
           "first_seen": "2026-08-28T06:28:24.863Z"
         }
@@ -66,12 +87,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode",
+                "homepage": "https://eggjs.org",
                 "id": 61421257,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T07:12:27Z",
+                "open_issues": 412,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18985
+                "stars": 18983,
+                "topics": [
+                  "egg",
+                  "eggjs",
+                  "enterprise",
+                  "framework",
+                  "koa",
+                  "koa-middleware",
+                  "koa2",
+                  "node-framework",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -82,12 +118,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+                "homepage": "https://www.midwayjs.org/",
                 "id": 140669486,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:49:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:32:25Z",
+                "open_issues": 121,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7743
+                "stars": 7742,
+                "topics": [
+                  "aliyun",
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "dependency-injection-container",
+                  "enterprise",
+                  "framework",
+                  "ioc",
+                  "midway",
+                  "mircoservices",
+                  "react",
+                  "serverless",
+                  "serverless-framework",
+                  "typescript",
+                  "vue",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -98,12 +156,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use full ES2015+ features to develop Node.js applications, Support TypeScript.",
+                "homepage": "https://thinkjs.org/",
                 "id": 13152531,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T09:12:05Z",
+                "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5268
+                "stars": 5268,
+                "topics": [
+                  "koa",
+                  "nodejs",
+                  "thinkjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -114,12 +182,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.",
+                "homepage": "https://lad.js.org",
                 "id": 2791470,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-29T09:38:14Z",
+                "open_issues": 61,
                 "owner": "ladjs",
                 "repo": "lad",
-                "stars": 2287
+                "stars": 2287,
+                "topics": [
+                  "api",
+                  "async-await",
+                  "ava",
+                  "aws",
+                  "boilerplate",
+                  "bootstrap",
+                  "cloudfront",
+                  "framework",
+                  "javascript",
+                  "koa",
+                  "mongodb",
+                  "mongoose",
+                  "mvc",
+                  "nodejs",
+                  "passport",
+                  "prettier",
+                  "react-native",
+                  "redis",
+                  "s3",
+                  "xo"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -130,12 +224,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Cabloy is a Node.js fullstack framework for AI vibe coding. Bidirectional type sync, CLI-first workflows, docs, and skills.",
+                "homepage": "https://cabloy.com",
                 "id": 117403675,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T05:04:51Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T13:25:30Z",
+                "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
-                "stars": 970
+                "stars": 970,
+                "topics": [
+                  "full-stack",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -146,12 +248,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koa + Typescript = Koatty. Koatty is a progressive Node.js framework for building efficient and scalable server-side applications. ",
+                "homepage": "https://koatty.org/",
                 "id": 131427005,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-26T03:36:28Z",
+                "open_issues": 0,
                 "owner": "Koatty",
                 "repo": "koatty",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "aop",
+                  "auto-injection",
+                  "grpc",
+                  "grpc-server",
+                  "http",
+                  "http2",
+                  "https",
+                  "ioc",
+                  "koa",
+                  "koa2",
+                  "middleware",
+                  "rpc",
+                  "springboot",
+                  "typescript",
+                  "typescript-decorator",
+                  "websocket",
+                  "ws"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             }
@@ -169,12 +294,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README",
+                "homepage": "https://node-typescript-koa-rest.herokuapp.com/swagger-html",
                 "id": 133191471,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-15T12:19:28Z",
+                "open_issues": 17,
                 "owner": "javieraviles",
                 "repo": "node-typescript-koa-rest",
-                "stars": 1015
+                "stars": 1015,
+                "topics": [
+                  "class-validator",
+                  "cors",
+                  "crud",
+                  "docker",
+                  "github-actions",
+                  "helmet",
+                  "heroku",
+                  "jwt",
+                  "koa",
+                  "koa-jwt",
+                  "koa-router",
+                  "koa2",
+                  "node",
+                  "nodemon",
+                  "rest-api",
+                  "sql",
+                  "swagger",
+                  "typeorm",
+                  "typescript",
+                  "winston"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -185,12 +336,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💯 Boilerplate for Node.js Koa RESTful API application with Docker, Swagger, Jest, CodeCov and CircleCI",
+                "homepage": "https://koa-rest-api-boilerplate.js.org",
                 "id": 101548791,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-30T02:58:27Z",
+                "open_issues": 46,
                 "owner": "posquit0",
                 "repo": "koa-rest-api-boilerplate",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "api",
+                  "boilerplate",
+                  "circle-ci",
+                  "circleci",
+                  "docker",
+                  "koa",
+                  "koa2",
+                  "node",
+                  "pm2",
+                  "rest",
+                  "restful",
+                  "skeleton",
+                  "swagger",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             },
@@ -201,12 +372,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Koa Boilerplate for APIs",
+                "homepage": null,
                 "id": 108121413,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-01T04:50:17Z",
+                "open_issues": 8,
                 "owner": "dbalas",
                 "repo": "koalerplate",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "boilerplate",
+                  "javascript",
+                  "koa",
+                  "koa2",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             }
@@ -224,12 +406,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+                "homepage": "https://strapi.io",
                 "id": 43441403,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:07:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:44:41Z",
+                "open_issues": 545,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73022
+                "stars": 73032,
+                "topics": [
+                  "api",
+                  "cms",
+                  "cms-framework",
+                  "content-management",
+                  "content-management-system",
+                  "customizable",
+                  "dashboard",
+                  "graphql",
+                  "hacktoberfest",
+                  "headless-cms",
+                  "jamstack",
+                  "javascript",
+                  "mysql",
+                  "no-code",
+                  "nodejs",
+                  "posgresql",
+                  "rest",
+                  "strapi",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
             }
@@ -249,12 +456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pretty-printed JSON response middleware",
+                    "homepage": null,
                     "id": 16427212,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-05-30T12:56:39Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "json",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -265,12 +477,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware allowing the client to filter the response to only what they need, reducing the amount of traffic over the wire.",
+                    "homepage": null,
                     "id": 15696470,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-04-10T08:17:26Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "json-filter",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -281,12 +498,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware allowing the client to filter the response to only what they need, reducing the amount of traffic over the wire.",
+                    "homepage": null,
                     "id": 16039338,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-10-30T21:28:45Z",
+                    "open_issues": 0,
                     "owner": "nemtsov",
                     "repo": "koa-json-mask",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -297,12 +519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "check if a koa body should be interpreted as JSON",
+                    "homepage": null,
                     "id": 19137443,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-09T18:43:50Z",
+                    "open_issues": 6,
                     "owner": "koajs",
                     "repo": "is-json",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -320,12 +547,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koajs JSONP streaming friendly middleware with GET/POST support",
+                    "homepage": null,
                     "id": 15434563,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-09-14T08:26:51Z",
+                    "open_issues": 1,
                     "owner": "kilianc",
                     "repo": "koa-jsonp",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -336,12 +568,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Safe jsonp plusins for koa.",
+                    "homepage": null,
                     "id": 21947350,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-06-27T08:54:11Z",
+                    "open_issues": 1,
                     "owner": "koajs",
                     "repo": "koa-safe-jsonp",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -352,12 +589,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa jsonp middleware",
+                    "homepage": null,
                     "id": 67585260,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T21:38:29Z",
+                    "open_issues": 9,
                     "owner": "keenwon",
                     "repo": "koa-response-jsonp",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "jsonp",
+                      "koa",
+                      "koa-middleware",
+                      "koajs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -375,12 +622,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stylus middleware for Koa",
+                    "homepage": null,
                     "id": 15395850,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-04-06T02:08:26Z",
+                    "open_issues": 2,
                     "owner": "yosssi",
                     "repo": "koa-stylus",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -391,12 +643,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware for SCSS.",
+                    "homepage": null,
                     "id": 34964999,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2015-11-15T01:53:02Z",
+                    "open_issues": 3,
                     "owner": "adamkdean",
                     "repo": "koa-scss",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -407,12 +664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Less middleware for Koa",
+                    "homepage": null,
                     "id": 15793827,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2014-07-24T07:43:12Z",
+                    "open_issues": 0,
                     "owner": "chosecz",
                     "repo": "koa-less",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -423,12 +685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caching PostCSS middleware for Koa.js",
+                    "homepage": null,
                     "id": 43535452,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-02-03T05:25:15Z",
+                    "open_issues": 1,
                     "owner": "HowlingEverett",
                     "repo": "koa-postcss",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -439,12 +706,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa@2 middleware for processing scss",
+                    "homepage": null,
                     "id": 77216037,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-05-30T18:02:11Z",
+                    "open_issues": 1,
                     "owner": "elquimista",
                     "repo": "koa-sass",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "koa",
+                      "koa2",
+                      "middleware",
+                      "sass"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -462,12 +739,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa body parsing middleware",
+                    "homepage": null,
                     "id": 16918137,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T01:24:06Z",
+                    "open_issues": 6,
                     "owner": "koajs",
                     "repo": "bodyparser",
-                    "stars": 1325
+                    "stars": 1325,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -478,12 +760,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa body parser middleware",
+                    "homepage": null,
                     "id": 16419090,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T06:54:08Z",
+                    "open_issues": 9,
                     "owner": "koajs",
                     "repo": "koa-body",
-                    "stars": 955
+                    "stars": 955,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -494,12 +781,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Delivering delightful digital solutions. Monorepo of monorepos of Open Source packages with combined ~100M/month downloads, semantically versioned following @conventional-commits. Fully powered ES Modules, @Airbnb @ESLint + @Prettier, independent & fixed versioning. Quality with @Actions, CodeQL, & Dependabot.",
+                    "homepage": "https://tunnckocore.com/opensource",
                     "id": 80710714,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-02-21T23:40:59Z",
+                    "open_issues": 45,
                     "owner": "tunnckoCore",
                     "repo": "opensource",
-                    "stars": 486
+                    "stars": 486,
+                    "topics": [
+                      "automation",
+                      "babel",
+                      "babel-preset",
+                      "conventional-commits",
+                      "eslint",
+                      "eslint-config",
+                      "freesoftware",
+                      "git",
+                      "javascript",
+                      "jest",
+                      "libraries",
+                      "modern",
+                      "monorepo",
+                      "opensource",
+                      "parse-commit-message",
+                      "parsing",
+                      "quality",
+                      "testing",
+                      "typescript",
+                      "utilities"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -510,12 +823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware for handling `multipart/form-data` for koa, based on Express's multer.",
+                    "homepage": null,
                     "id": 33353966,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-10-05T07:22:54Z",
+                    "open_issues": 11,
                     "owner": "koa-modules",
                     "repo": "multer",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -526,12 +844,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of koa body parsers",
+                    "homepage": null,
                     "id": 20790421,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-11T16:22:57Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T16:22:45Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "body-parsers",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -542,12 +865,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa middleware to parse xml request body",
+                    "homepage": null,
                     "id": 48645436,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-20T16:18:43Z",
+                    "open_issues": 3,
                     "owner": "creeperyang",
                     "repo": "koa-xml-body",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "encoding",
+                      "koa",
+                      "koa-xml-body",
+                      "koa2",
+                      "middleware",
+                      "xml-parser"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -558,12 +893,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Upload files with Busboy",
+                    "homepage": "https://www.npmjs.com/package/koa-busboy",
                     "id": 89134641,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-06-10T05:40:44Z",
+                    "open_issues": 7,
                     "owner": "dominhhai",
                     "repo": "koa-busboy",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "busboy",
+                      "koa-busboy",
+                      "koa-middleware",
+                      "koa2",
+                      "middleware",
+                      "multipart",
+                      "upload-file"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -574,12 +922,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Single-purpose koa middleware to parse valid JSON request bodies and nothing else.",
+                    "homepage": null,
                     "id": 18033145,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-04-22T14:52:26Z",
+                    "open_issues": 1,
                     "owner": "venables",
                     "repo": "koa-json-body",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -597,12 +950,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware composition utility",
+                    "homepage": null,
                     "id": 12072895,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-02T08:06:13Z",
+                    "open_issues": 11,
                     "owner": "koajs",
                     "repo": "compose",
-                    "stars": 1020
+                    "stars": 1020,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -613,12 +971,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Convert koa generator-based middleware to promise-based middleware",
+                    "homepage": null,
                     "id": 44033526,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-10T18:43:48Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "convert",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -629,12 +992,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use connect and express middleware in koa",
+                    "homepage": null,
                     "id": 23116260,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-10T13:45:42Z",
+                    "open_issues": 4,
                     "owner": "vkurchatkin",
                     "repo": "koa-connect",
-                    "stars": 170
+                    "stars": 170,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -645,12 +1013,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa user-agent middleware",
+                    "homepage": null,
                     "id": 21480558,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-24T12:13:42Z",
+                    "open_issues": 4,
                     "owner": "rvboris",
                     "repo": "koa-useragent",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "koa",
+                      "koa-useragent",
+                      "middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -668,12 +1045,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Template rendering middleware for koa (hbs, swig, pug, anything! :sparkles:)",
+                    "homepage": null,
                     "id": 15320425,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-04T02:28:09Z",
+                    "open_issues": 7,
                     "owner": "queckezz",
                     "repo": "koa-views",
-                    "stars": 706
+                    "stars": 706,
+                    "topics": [
+                      "koa",
+                      "template-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -684,12 +1069,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Koa view engine which renders React components on server",
+                    "homepage": null,
                     "id": 37026067,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-01-23T16:04:51Z",
+                    "open_issues": 7,
                     "owner": "koajs",
                     "repo": "react-view",
-                    "stars": 258
+                    "stars": 258,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -700,12 +1090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a koa view render middleware, support all feature of ejs",
+                    "homepage": null,
                     "id": 17130890,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-02T16:33:44Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "ejs",
-                    "stars": 248
+                    "stars": 248,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -716,12 +1111,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Handlebars templates for Koa.js",
+                    "homepage": null,
                     "id": 15427895,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-10-02T19:17:52Z",
+                    "open_issues": 9,
                     "owner": "koajs",
                     "repo": "koa-hbs",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": [
+                      "handlebars",
+                      "hbs",
+                      "javascript",
+                      "koa",
+                      "koa-hbs",
+                      "koa2",
+                      "middleware",
+                      "partials"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -732,12 +1141,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Pug middleware for Koa",
+                    "homepage": null,
                     "id": 20380008,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-08T11:45:18Z",
+                    "open_issues": 12,
                     "owner": "chrisyip",
                     "repo": "koa-pug",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "javascript",
+                      "koa",
+                      "koa-pug",
+                      "pug",
+                      "pug-templates"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -748,12 +1168,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A koa middleware for using handlebars templates",
+                    "homepage": null,
                     "id": 24208412,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-09-19T15:53:56Z",
+                    "open_issues": 6,
                     "owner": "dominicbarnes",
                     "repo": "koa-handlebars",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -764,12 +1189,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Koa view engine which renders Vue components on server.",
+                    "homepage": null,
                     "id": 106359949,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-12-21T10:44:47Z",
+                    "open_issues": 2,
                     "owner": "imingyu",
                     "repo": "koa-vue-view",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "engine",
+                      "koa",
+                      "koa-middleware",
+                      "koa-view",
+                      "koa-vue",
+                      "koa-vue-view",
+                      "vue-server-renderer",
+                      "vue-ssr"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -780,12 +1219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa view render based on Swig, support tags, filters, and extensions",
+                    "homepage": null,
                     "id": 17751571,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-04-17T12:34:08Z",
+                    "open_issues": 3,
                     "owner": "koa-modules",
                     "repo": "swig",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -796,12 +1240,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Template rendering middleware for koa (using nunjucks).",
+                    "homepage": null,
                     "id": 50637931,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2025-08-02T10:11:10Z",
+                    "open_issues": 2,
                     "owner": "d-band",
                     "repo": "koa-view",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "koa",
+                      "koa-view",
+                      "koa2",
+                      "nunjucks"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -812,12 +1266,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dom templating for koa.",
+                    "homepage": null,
                     "id": 12234485,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-03-15T14:10:40Z",
+                    "open_issues": 4,
                     "owner": "juliangruber",
                     "repo": "koa-dom",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -828,12 +1287,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa2 view render based on nunjucks",
+                    "homepage": null,
                     "id": 66914580,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-07-19T11:05:52Z",
+                    "open_issues": 1,
                     "owner": "beliefgp",
                     "repo": "koa-nunjucks-next",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -844,12 +1308,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A node.js wrapper around xtemplate engine (easier for Koa 2)",
+                    "homepage": null,
                     "id": 76957953,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-04-09T13:33:22Z",
+                    "open_issues": 3,
                     "owner": "zce",
                     "repo": "koa-xtpl",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -860,12 +1329,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Nunjucks Renderer for KoaJs v2+ that uses native async/await of Nodejs",
+                    "homepage": null,
                     "id": 97046165,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T20:29:14Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T12:04:10Z",
+                    "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -876,12 +1350,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa ejs view render middleware.",
+                    "homepage": null,
                     "id": 29740168,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-07-15T11:21:54Z",
+                    "open_issues": 2,
                     "owner": "nswbmw",
                     "repo": "co-ejs",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -892,12 +1371,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Koa Nunjucks rendering middleware",
+                    "homepage": null,
                     "id": 27785998,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2014-12-13T02:42:25Z",
+                    "open_issues": 0,
                     "owner": "DigitalIO",
                     "repo": "koajs-nunjucks",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -908,12 +1392,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Koa view render based on Swig, support tags, filters, and extensions.",
+                    "homepage": null,
                     "id": 29199951,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-01-14T07:01:55Z",
+                    "open_issues": 0,
                     "owner": "JiangJie",
                     "repo": "koa-swig-render",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -924,12 +1413,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Koa2 middleware to render JSX templates with Redux support",
+                    "homepage": null,
                     "id": 124941815,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-05-22T00:39:35Z",
+                    "open_issues": 0,
                     "owner": "artdecocode",
                     "repo": "koa2-jsx",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "jsx",
+                      "koa2",
+                      "koa2-middleware",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -940,12 +1439,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 67865517,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-05-11T08:27:10Z",
+                    "open_issues": 0,
                     "owner": "koahubjs",
                     "repo": "koahub-handlebars",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -963,12 +1467,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Static file server middleware",
+                    "homepage": null,
                     "id": 12182834,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-10-20T17:16:30Z",
+                    "open_issues": 13,
                     "owner": "koajs",
                     "repo": "static",
-                    "stars": 1147
+                    "stars": 1147,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -979,12 +1488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Transfer static files",
+                    "homepage": null,
                     "id": 15127744,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-04-28T23:46:11Z",
+                    "open_issues": 22,
                     "owner": "koajs",
                     "repo": "send",
-                    "stars": 433
+                    "stars": 433,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -995,12 +1509,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[MAJOR CHANGES IN PROGRESS] Static cache middleware for Koa.",
+                    "homepage": null,
                     "id": 12242512,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2025-04-10T23:10:49Z",
+                    "open_issues": 21,
                     "owner": "koajs",
                     "repo": "static-cache",
-                    "stars": 291
+                    "stars": 291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1011,12 +1530,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware for serving a favicon",
+                    "homepage": null,
                     "id": 12824114,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-04-24T20:43:09Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "favicon",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1027,12 +1551,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Static file serving middleware for koa with directory, rewrite and index support",
+                    "homepage": null,
                     "id": 36009814,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-07-18T19:33:24Z",
+                    "open_issues": 2,
                     "owner": "pkoretic",
                     "repo": "koa-static-server",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1043,12 +1572,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "basic file-sending utility for koa",
+                    "homepage": null,
                     "id": 18031787,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-19T07:14:08Z",
+                    "open_issues": 5,
                     "owner": "koajs",
                     "repo": "sendfile",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1059,12 +1593,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "file serving middleware for koa",
+                    "homepage": null,
                     "id": 18043718,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-03-24T12:01:07Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "file-server",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1075,12 +1614,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Send file with range requests",
+                    "homepage": "https://www.npmjs.com/package/koa-stream",
                     "id": 37712392,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-11-02T08:45:01Z",
+                    "open_issues": 0,
                     "owner": "claudetech",
                     "repo": "koa-stream",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1091,12 +1635,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small, simple and correct serving of files, using `koa-send` - nothing more.",
+                    "homepage": "https://i.am.charlike.online",
                     "id": 70545950,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-23T20:36:26Z",
+                    "open_issues": 20,
                     "owner": "tunnckoCore",
                     "repo": "koa-better-serve",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "koa",
+                      "koa-middleware",
+                      "serve"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1107,12 +1660,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pushState friendly static file server, with koa",
+                    "homepage": null,
                     "id": 15578492,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2014-02-22T15:10:12Z",
+                    "open_issues": 3,
                     "owner": "ktmud",
                     "repo": "koa-spa",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1123,12 +1681,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Serve static files, based on Express's serve-static.",
+                    "homepage": null,
                     "id": 33324070,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-12-27T08:50:21Z",
+                    "open_issues": 1,
                     "owner": "koa-modules",
                     "repo": "serve-static",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1139,12 +1702,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware for Koa2 to serve a folder under a name declared by user",
+                    "homepage": null,
                     "id": 50658657,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-08-22T14:33:19Z",
+                    "open_issues": 0,
                     "owner": "Secbone",
                     "repo": "koa-static2",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "koa2"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1155,12 +1725,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Middleware for KoaJS to serve folder as static files.",
+                    "homepage": null,
                     "id": 17668783,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-02-28T13:38:56Z",
+                    "open_issues": 2,
                     "owner": "janpieterz",
                     "repo": "koajs-static-folder",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1171,12 +1746,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Serve directory listings for koa, based on Express's serve-index.",
+                    "homepage": null,
                     "id": 33336367,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-12-30T02:19:38Z",
+                    "open_issues": 0,
                     "owner": "koa-modules",
                     "repo": "serve-list",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1187,12 +1767,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware for serving static files",
+                    "homepage": null,
                     "id": 40596866,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-07-15T20:20:30Z",
+                    "open_issues": 2,
                     "owner": "adamkdean",
                     "repo": "koa-serve",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -1210,12 +1795,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Router middleware for Koa.",
+                    "homepage": null,
                     "id": 192201274,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-07T18:22:38Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "router",
-                    "stars": 911
+                    "stars": 911,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1226,12 +1816,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mount other Koa applications or middleware to a given pathname",
+                    "homepage": null,
                     "id": 12174738,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-10T03:02:55Z",
+                    "open_issues": 4,
                     "owner": "koajs",
                     "repo": "mount",
-                    "stars": 553
+                    "stars": 553,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1242,12 +1837,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Configurable, input and output validated routing for koa",
+                    "homepage": null,
                     "id": 22698679,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-06-10T13:24:25Z",
+                    "open_issues": 11,
                     "owner": "koajs",
                     "repo": "joi-router",
-                    "stars": 451
+                    "stars": 451,
+                    "topics": [
+                      "javascript",
+                      "joi",
+                      "koa",
+                      "router"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1258,12 +1863,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple route middleware",
+                    "homepage": null,
                     "id": 14185551,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-09-16T00:38:28Z",
+                    "open_issues": 9,
                     "owner": "koajs",
                     "repo": "route",
-                    "stars": 447
+                    "stars": 447,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1274,12 +1884,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "high performance router for Koa",
+                    "homepage": null,
                     "id": 115835935,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-28T07:31:47Z",
+                    "open_issues": 7,
                     "owner": "steambap",
                     "repo": "koa-tree-router",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": [
+                      "fast",
+                      "koa",
+                      "koa-router",
+                      "radix-tree"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1290,12 +1910,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Trie-routing for Koa",
+                    "homepage": null,
                     "id": 14417887,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-05-29T10:19:53Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "trie-router",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1306,12 +1931,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Koa Router, based on OpenAPI, Swagger and Json Schema.",
+                    "homepage": null,
                     "id": 75414661,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-12-07T07:49:06Z",
+                    "open_issues": 8,
                     "owner": "oaijs",
                     "repo": "koa-oai-router",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": [
+                      "jsonschema",
+                      "koa",
+                      "koa-oai-router",
+                      "koa-router",
+                      "oai",
+                      "openapi",
+                      "swagger"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1322,12 +1960,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "URL rewriting middleware",
+                    "homepage": null,
                     "id": 12704944,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-09-16T00:22:04Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "rewrite",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1338,12 +1981,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":heart: Stable and lovely router for `koa`, using `path-match`. Foundation for building powerful, flexible and RESTful APIs easily.",
+                    "homepage": null,
                     "id": 70727414,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-23T19:25:23Z",
+                    "open_issues": 25,
                     "owner": "tunnckoCore",
                     "repo": "koa-better-router",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "composable",
+                      "extensible",
+                      "fast",
+                      "koa2",
+                      "middleware",
+                      "powerful",
+                      "restful",
+                      "router",
+                      "small",
+                      "stable"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1354,12 +2013,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "qs for koa, and use querystring more safely.",
+                    "homepage": null,
                     "id": 15308438,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-19T07:10:10Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "qs",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1370,12 +2034,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Most powerful, flexible and composable router for building enterprise RESTful APIs easily!",
+                    "homepage": null,
                     "id": 70716623,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-23T18:06:18Z",
+                    "open_issues": 13,
                     "owner": "tunnckoCore",
                     "repo": "koa-rest-router",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "composable",
+                      "fast",
+                      "flexible",
+                      "koa2",
+                      "middleware",
+                      "powerful",
+                      "rest-api",
+                      "restful",
+                      "restful-api",
+                      "router",
+                      "webservices"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1386,12 +2067,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Router middleware for koa 2",
+                    "homepage": null,
                     "id": 44768854,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-02-25T10:04:09Z",
+                    "open_issues": 2,
                     "owner": "menems",
                     "repo": "koa-66",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1402,12 +2088,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware for composing multiple instances of koa-router.",
+                    "homepage": "https://www.npmjs.com/package/koa-combine-routers",
                     "id": 67260734,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-10-02T07:41:45Z",
+                    "open_issues": 0,
                     "owner": "saadq",
                     "repo": "koa-combine-routers",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1418,12 +2109,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A better and smart router middleware for koa.",
+                    "homepage": null,
                     "id": 172418409,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-02-17T14:25:27Z",
+                    "open_issues": 5,
                     "owner": "d-band",
                     "repo": "koa-mapper",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1434,12 +2130,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "react-router middleware for koa 2.",
+                    "homepage": "https://www.npmjs.com/package/koa-react-router",
                     "id": 79468614,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-04-29T15:31:23Z",
+                    "open_issues": 0,
                     "owner": "afenton90",
                     "repo": "koa-react-router",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "koa",
+                      "koa2",
+                      "middleware",
+                      "react",
+                      "react-router"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1450,12 +2157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa route middleware",
+                    "homepage": null,
                     "id": 22136515,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-28T09:35:33Z",
+                    "open_issues": 10,
                     "owner": "koajs",
                     "repo": "path-match",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1466,12 +2178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Add express style params support to koa",
+                    "homepage": null,
                     "id": 16139252,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2014-04-12T19:17:18Z",
+                    "open_issues": 0,
                     "owner": "segment-boneyard",
                     "repo": "koa-params",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1482,12 +2199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "File/Folder as `path`, another router middleware for koa.",
+                    "homepage": null,
                     "id": 28216749,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-01-04T13:25:53Z",
+                    "open_issues": 1,
                     "owner": "nswbmw",
                     "repo": "koa-frouter",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1498,12 +2220,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An ES6 decorator + class based router, support inherit, override, priority, auto load controllers, etc.",
+                    "homepage": null,
                     "id": 86703792,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-01-19T10:29:40Z",
+                    "open_issues": 0,
                     "owner": "zaaack",
                     "repo": "koa-dec-router",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "class",
+                      "decorators",
+                      "es6",
+                      "koa",
+                      "koa-router",
+                      "koa2",
+                      "router"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1514,12 +2249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Manage koa routes on right way",
+                    "homepage": null,
                     "id": 18115525,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2015-05-30T17:56:42Z",
+                    "open_issues": 3,
                     "owner": "ivpusic",
                     "repo": "koa-routing",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1530,12 +2270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Modular Koa router middleware with Express-style routes and middleware mounting",
+                    "homepage": null,
                     "id": 17830874,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-29T17:20:14Z",
+                    "open_issues": 1,
                     "owner": "blakeembrey",
                     "repo": "kroute",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1546,12 +2291,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HTTP method override middleware for koa",
+                    "homepage": null,
                     "id": 18069407,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-05-30T18:00:04Z",
+                    "open_issues": 1,
                     "owner": "koa-modules",
                     "repo": "methodoverride",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1562,12 +2312,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple router for koa 2.x",
+                    "homepage": null,
                     "id": 45161671,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-11-17T18:14:24Z",
+                    "open_issues": 0,
                     "owner": "gyson",
                     "repo": "koa-simple-router",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1578,12 +2333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Subdomain middleware for Koa",
+                    "homepage": null,
                     "id": 37784645,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-08-28T19:22:54Z",
+                    "open_issues": 3,
                     "owner": "Student007",
                     "repo": "koa-sub-domain",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1594,12 +2354,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An express-liked router component for koa2",
+                    "homepage": null,
                     "id": 160775317,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-03-01T06:39:20Z",
+                    "open_issues": 0,
                     "owner": "xinpianchang",
                     "repo": "koa2-router",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "koa",
+                      "koa2",
+                      "koa2-router",
+                      "koajs",
+                      "nodejs",
+                      "router"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1610,12 +2382,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Controller decorators for Koa using koa-joi-router",
+                    "homepage": null,
                     "id": 184929293,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-06T01:50:03Z",
+                    "open_issues": 14,
                     "owner": "giall",
                     "repo": "koa-joi-controllers",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1626,12 +2403,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "express style router for koa2",
+                    "homepage": "https://magicdawn.github.io/common-docs/docs/impress-router",
                     "id": 37246320,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-11-04T09:28:36Z",
+                    "open_issues": 0,
                     "owner": "magicdawn",
                     "repo": "impress-router",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "express-router",
+                      "impress",
+                      "koa",
+                      "koa-router",
+                      "middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1642,12 +2430,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Router middleware for Koa. Mutation-free, less than 100 lines",
+                    "homepage": null,
                     "id": 87641487,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-01-06T01:18:17Z",
+                    "open_issues": 0,
                     "owner": "TehShrike",
                     "repo": "koa-bestest-router",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1658,12 +2451,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic Model / Controller Loader for Koa",
+                    "homepage": null,
                     "id": 30112548,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-06-12T07:18:06Z",
+                    "open_issues": 0,
                     "owner": "zedgu",
                     "repo": "koa-ovenware",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1674,12 +2472,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Forward request for koa.",
+                    "homepage": null,
                     "id": 39437030,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-01-24T11:25:32Z",
+                    "open_issues": 0,
                     "owner": "nswbmw",
                     "repo": "koa-forward-request",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1690,12 +2493,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automates mounting and routing",
+                    "homepage": null,
                     "id": 90367032,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-10-05T14:55:51Z",
+                    "open_issues": 0,
                     "owner": "nervgh",
                     "repo": "koa-architect",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -1713,12 +2521,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware for validating JSON Web Tokens",
+                    "homepage": null,
                     "id": 16346957,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-09-10T02:34:25Z",
+                    "open_issues": 7,
                     "owner": "koajs",
                     "repo": "jwt",
-                    "stars": 1350
+                    "stars": 1350,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1729,12 +2542,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Passport middleware for Koa",
+                    "homepage": null,
                     "id": 15921481,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-13T04:58:16Z",
+                    "open_issues": 13,
                     "owner": "rkusa",
                     "repo": "koa-passport",
-                    "stars": 771
+                    "stars": 771,
+                    "topics": [
+                      "authentication",
+                      "javascript",
+                      "koa",
+                      "koa2",
+                      "passport"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1745,12 +2569,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "blanket basic auth middleware",
+                    "homepage": null,
                     "id": 12233791,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2019-01-07T09:19:09Z",
+                    "open_issues": 0,
                     "owner": "koajs",
                     "repo": "basic-auth",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1761,12 +2590,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bearer token parser middleware for koa",
+                    "homepage": null,
                     "id": 34510794,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-09T00:16:10Z",
+                    "open_issues": 1,
                     "owner": "chentsulin",
                     "repo": "koa-bearer-token",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1777,12 +2611,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 23006041,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-10-21T15:45:59Z",
+                    "open_issues": 0,
                     "owner": "jchannon",
                     "repo": "koa-statelessauth",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1793,12 +2632,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "weixin token services for koa",
+                    "homepage": null,
                     "id": 46324745,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-11-20T07:34:36Z",
+                    "open_issues": 0,
                     "owner": "nealnote",
                     "repo": "koa-weixin-token",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1809,12 +2653,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Policy based authentication library for Koa",
+                    "homepage": "https://www.npmjs.com/package/koa-police",
                     "id": 36935228,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-10-27T13:22:16Z",
+                    "open_issues": 0,
                     "owner": "danhper",
                     "repo": "koa-police",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1825,12 +2674,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware to deal with JSON-web-token in mongodb",
+                    "homepage": null,
                     "id": 70545837,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-04-21T13:15:05Z",
+                    "open_issues": 0,
                     "owner": "miserylee",
                     "repo": "koa-jwt-mongo",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1841,12 +2695,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "HTTP authorization middleware of koa.",
+                    "homepage": null,
                     "id": 53251626,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-12-25T08:22:02Z",
+                    "open_issues": 1,
                     "owner": "Gerhut",
                     "repo": "koa-http-auth",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1857,12 +2716,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Koa middleware for AWS Cognito integration.",
+                    "homepage": null,
                     "id": 182290100,
                     "language": "JavaScript",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-17T19:45:45Z",
+                    "open_issues": 0,
                     "owner": "uhop",
                     "repo": "koa-cognito-middleware",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "aws-cognito",
+                      "jwt",
+                      "koa",
+                      "user-pool"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -1880,12 +2749,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MongoDB middleware for koa, support connection pool.",
+                    "homepage": null,
                     "id": 22633398,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2021-01-18T02:02:57Z",
+                    "open_issues": 0,
                     "owner": "nswbmw",
                     "repo": "koa-mongo",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1896,12 +2770,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa orm using sequelize & sk2 (fork from knex)",
+                    "homepage": null,
                     "id": 52100210,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-12-04T08:17:35Z",
+                    "open_issues": 0,
                     "owner": "d-band",
                     "repo": "koa-orm",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": [
+                      "koa-orm",
+                      "koa2",
+                      "koajs",
+                      "orm",
+                      "sequelize",
+                      "sql",
+                      "squel"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1912,12 +2799,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A middleware to handle Range Pagination Headers using Range & Content-Range entity-headers.",
+                    "homepage": "https://npmjs.com/koa-pagination",
                     "id": 27446911,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-10-02T19:47:36Z",
+                    "open_issues": 22,
                     "owner": "uphold",
                     "repo": "koa-pagination",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "content-range",
+                      "koa2",
+                      "middleware",
+                      "pagination",
+                      "range"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1928,12 +2826,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Koa middleware to get you a Postgres client.",
+                    "homepage": null,
                     "id": 15549062,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-09-01T11:35:38Z",
+                    "open_issues": 2,
                     "owner": "chilts",
                     "repo": "koa-pg",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1944,12 +2847,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Redis middleware for koa, support connection pool.",
+                    "homepage": null,
                     "id": 26423051,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-03-03T14:26:09Z",
+                    "open_issues": 0,
                     "owner": "nswbmw",
                     "repo": "koa-redis-pool",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1960,12 +2868,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Deprecated: A middleware for your hose",
+                    "homepage": null,
                     "id": 34307441,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-04-05T10:10:24Z",
+                    "open_issues": 13,
                     "owner": "ptariche",
                     "repo": "koa-waterline",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "koa",
+                      "middleware",
+                      "orm",
+                      "waterline"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -1983,12 +2901,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create a GraphQL HTTP server with Koa.",
+                    "homepage": null,
                     "id": 40592926,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-24T05:39:34Z",
+                    "open_issues": 6,
                     "owner": "graphql-community",
                     "repo": "koa-graphql",
-                    "stars": 840
+                    "stars": 840,
+                    "topics": [
+                      "graphql",
+                      "koa",
+                      "koa-graphql",
+                      "koa-middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -1999,12 +2927,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware to display GraphiQL, the interactive GraphQL UI",
+                    "homepage": null,
                     "id": 47153717,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-08-06T12:31:06Z",
+                    "open_issues": 2,
                     "owner": "expo",
                     "repo": "koa-graphiql",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2022,12 +2955,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compress middleware for koa",
+                    "homepage": null,
                     "id": 12238295,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T09:02:45Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "compress",
-                    "stars": 442
+                    "stars": 442,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2038,12 +2976,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[DEPRECATED] Compress middleware for koa that always compresses",
+                    "homepage": "https://github.com/koajs/compress",
                     "id": 19138364,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-10-07T12:15:45Z",
+                    "open_issues": 0,
                     "owner": "koajs",
                     "repo": "compressor",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2054,12 +2997,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This is a fork of koa-compress with support for brotli compression",
+                    "homepage": null,
                     "id": 111133582,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-07-16T04:34:48Z",
+                    "open_issues": 2,
                     "owner": "tuananh",
                     "repo": "kompression",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "brotli",
+                      "compression",
+                      "gzip",
+                      "koa",
+                      "middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2070,12 +3024,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minify middleware for koa",
+                    "homepage": null,
                     "id": 26491446,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-07-12T13:29:44Z",
+                    "open_issues": 0,
                     "owner": "coderaiser",
                     "repo": "koa-minify",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2086,12 +3045,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware to uglify javascript ",
+                    "homepage": "https://www.npmjs.org/package/koa-uglify2",
                     "id": 26667671,
                     "language": "JavaScript",
+                    "license": "ISC",
                     "last_commit": "2014-11-18T22:38:21Z",
+                    "open_issues": 0,
                     "owner": "grayleonard",
                     "repo": "koa-uglify2",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2109,12 +3073,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple session middleware for koa",
+                    "homepage": null,
                     "id": 14187683,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-04-06T22:00:42Z",
+                    "open_issues": 54,
                     "owner": "koajs",
                     "repo": "session",
-                    "stars": 908
+                    "stars": 908,
+                    "topics": [
+                      "koa",
+                      "koa-session",
+                      "session"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2125,12 +3098,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa session store with memory, redis or others.",
+                    "homepage": null,
                     "id": 15486519,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-31T19:20:17Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "generic-session",
-                    "stars": 414
+                    "stars": 414,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2141,12 +3119,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Redis storage for Koa session middleware/cache with Sentinel and Cluster support",
+                    "homepage": null,
                     "id": 15478900,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-19T06:02:20Z",
+                    "open_issues": 13,
                     "owner": "koajs",
                     "repo": "koa-redis",
-                    "stars": 353
+                    "stars": 353,
+                    "topics": [
+                      "cache",
+                      "cluster",
+                      "koa",
+                      "node",
+                      "redis",
+                      "sentinel",
+                      "session",
+                      "storage"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2157,12 +3149,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware for Koa2 to get/set session",
+                    "homepage": null,
                     "id": 50669034,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-12-10T01:43:13Z",
+                    "open_issues": 6,
                     "owner": "Secbone",
                     "repo": "koa-session2",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": [
+                      "koa2",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2173,12 +3173,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal implementation of session middleware for Koa 2",
+                    "homepage": null,
                     "id": 67380037,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-12T23:52:17Z",
+                    "open_issues": 0,
                     "owner": "lzztt",
                     "repo": "koa-session-minimal",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": [
+                      "koa-middleware",
+                      "koa2",
+                      "session-middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2189,12 +3198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa Redis sessions with field-referencing cross sets",
+                    "homepage": null,
                     "id": 50717884,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-27T09:45:51Z",
+                    "open_issues": 8,
                     "owner": "koajs",
                     "repo": "redis-session-sets",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2212,12 +3226,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cookie parser middleware for koa",
+                    "homepage": null,
                     "id": 66450079,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-06-19T10:56:45Z",
+                    "open_issues": 3,
                     "owner": "varunpal",
                     "repo": "koa-cookie",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2235,12 +3254,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HTTP response caching for Koa. Supports Redis, in-memory store, and more!",
+                    "homepage": null,
                     "id": 20377175,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-11T10:28:06Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "cash",
-                    "stars": 157
+                    "stars": 157,
+                    "topics": [
+                      "amazon",
+                      "aws",
+                      "cache",
+                      "caching",
+                      "cdn",
+                      "content",
+                      "delivery",
+                      "javascript",
+                      "koa",
+                      "memory",
+                      "network",
+                      "node",
+                      "redis",
+                      "s3",
+                      "session",
+                      "sessions",
+                      "space",
+                      "static",
+                      "storage",
+                      "store"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2251,12 +3296,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ETag support for Koa responses",
+                    "homepage": null,
                     "id": 12823899,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T22:53:17Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "etag",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2267,12 +3317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Conditional GET middleware for koa",
+                    "homepage": null,
                     "id": 12831096,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T16:03:01Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T16:02:57Z",
+                    "open_issues": 5,
                     "owner": "koajs",
                     "repo": "conditional-get",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2283,12 +3338,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zero-dependency koa router cache",
+                    "homepage": null,
                     "id": 36430750,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-07-08T11:25:53Z",
+                    "open_issues": 7,
                     "owner": "mkozjak",
                     "repo": "koa-cache-lite",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "cache",
+                      "caching",
+                      "koa",
+                      "middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2299,12 +3364,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Router cache middleware for koa.",
+                    "homepage": null,
                     "id": 32517101,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-01-03T14:28:21Z",
+                    "open_issues": 3,
                     "owner": "nswbmw",
                     "repo": "koa-router-cache",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2322,12 +3392,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Koa middleware for websocket handling",
+                    "homepage": null,
                     "id": 134632449,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-08T14:58:42Z",
+                    "open_issues": 7,
                     "owner": "b3nsn0w",
                     "repo": "koa-easy-ws",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2345,12 +3420,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.",
+                    "homepage": null,
                     "id": 132330004,
                     "language": "JavaScript",
+                    "license": "ISC",
                     "last_commit": "2026-06-08T17:55:21Z",
+                    "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3581
+                    "stars": 3581,
+                    "topics": [
+                      "bruteforce",
+                      "drizzle",
+                      "dynamodb",
+                      "express",
+                      "hapi",
+                      "koa",
+                      "limit",
+                      "nestjs",
+                      "postgresql",
+                      "prisma",
+                      "rate-limiting",
+                      "ratelimter",
+                      "redis",
+                      "security",
+                      "sqlite",
+                      "throttle",
+                      "valkey"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2361,12 +3459,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rate limiter middleware",
+                    "homepage": null,
                     "id": 14376847,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-06-05T19:54:42Z",
+                    "open_issues": 1,
                     "owner": "koajs",
                     "repo": "ratelimit",
-                    "stars": 493
+                    "stars": 493,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2377,12 +3480,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":rocket: Smart and easy request rate limiter for your APIs built on `koa`, using `koa-ip-filter`. Support custom stores, custom ID, custom error messages and custom headers.",
+                    "homepage": "http://j.mp/1stW47C",
                     "id": 19637033,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-23T18:06:36Z",
+                    "open_issues": 16,
                     "owner": "tunnckoCore",
                     "repo": "koa-better-ratelimit",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "filter",
+                      "id",
+                      "ip",
+                      "koa",
+                      "koajs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2393,12 +3507,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa middleware to filter request IPs or custom ID with glob patterns, array, string, regexp or matcher function. Support custom 403 Forbidden message and custom ID.",
+                    "homepage": "http://j.mp/1Q2eR4j",
                     "id": 36096337,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-07-13T21:39:02Z",
+                    "open_issues": 3,
                     "owner": "tunnckoCore",
                     "repo": "koa-ip-filter",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "glob",
+                      "ip",
+                      "ip-filter",
+                      "koa",
+                      "koa-middleware",
+                      "limiter",
+                      "matching"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2416,12 +3543,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "using decorator to automatically generate swagger doc for koa-router",
+                    "homepage": null,
                     "id": 97702163,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-09-22T07:25:16Z",
+                    "open_issues": 36,
                     "owner": "Cody2333",
                     "repo": "koa-swagger-decorator",
-                    "stars": 354
+                    "stars": 354,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2432,12 +3564,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa 2 middleware for swagger2",
+                    "homepage": null,
                     "id": 54420213,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-14T10:06:41Z",
+                    "open_issues": 10,
                     "owner": "carlansley",
                     "repo": "swagger2-koa",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2448,12 +3585,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An automatic documentation generator for koa.js APIs ",
+                    "homepage": null,
                     "id": 45921649,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-03-20T17:42:15Z",
+                    "open_issues": 7,
                     "owner": "a-s-o",
                     "repo": "koa-docs",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2464,12 +3606,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An opinionated koa validation & swagger library, letting you write one Joi schema for both validation & generating swagger ui.",
+                    "homepage": null,
                     "id": 89457546,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-08-13T08:41:39Z",
+                    "open_issues": 3,
                     "owner": "zaaack",
                     "repo": "koa-joi-swagger",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": [
+                      "joi",
+                      "joi-to-json-schema",
+                      "koa",
+                      "swagger",
+                      "swagger-ui",
+                      "validation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2480,12 +3634,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Swagger + Koa = {swagger-koa}",
+                    "homepage": "https://github.com/cyner/swagger-koa",
                     "id": 56479077,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-01-06T08:22:30Z",
+                    "open_issues": 5,
                     "owner": "janvotava",
                     "repo": "swagger-koa",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2503,12 +3662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-Origin Resource Sharing(CORS) for koa",
+                    "homepage": null,
                     "id": 30520411,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-02T23:01:34Z",
+                    "open_issues": 21,
                     "owner": "koajs",
                     "repo": "cors",
-                    "stars": 742
+                    "stars": 741,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2519,12 +3683,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Important security headers for koa",
+                    "homepage": null,
                     "id": 18251855,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-10T01:53:50Z",
+                    "open_issues": 4,
                     "owner": "venables",
                     "repo": "koa-helmet",
-                    "stars": 637
+                    "stars": 637,
+                    "topics": [
+                      "headers",
+                      "helmet",
+                      "koa",
+                      "koa-helmet",
+                      "koa2",
+                      "middleware",
+                      "secure",
+                      "secure-by-default"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2535,12 +3713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CSRF tokens for koa",
+                    "homepage": null,
                     "id": 14197336,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-07-02T05:14:19Z",
+                    "open_issues": 0,
                     "owner": "koajs",
                     "repo": "csrf",
-                    "stars": 265
+                    "stars": 265,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2551,12 +3734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CORS middleware for Koa",
+                    "homepage": null,
                     "id": 15366176,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-09-30T08:06:16Z",
+                    "open_issues": 13,
                     "owner": "evert0n",
                     "repo": "koa-cors",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2567,12 +3755,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa version of Connect-Roles",
+                    "homepage": null,
                     "id": 18174940,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-07-03T18:59:13Z",
+                    "open_issues": 2,
                     "owner": "koajs",
                     "repo": "koa-roles",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2583,12 +3776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Role-Based Access Control for Koa",
+                    "homepage": null,
                     "id": 19082251,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-08-28T19:27:47Z",
+                    "open_issues": 3,
                     "owner": "yanickrochon",
                     "repo": "koa-rbac",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2599,12 +3797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa version of lusca. Application security for koa.",
+                    "homepage": null,
                     "id": 20292287,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-12T07:46:12Z",
+                    "open_issues": 6,
                     "owner": "koajs",
                     "repo": "koa-lusca",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2615,12 +3818,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa-authz is an authorization middleware for Koa2 based on Casbin",
+                    "homepage": "https://casbin.org/",
                     "id": 144095710,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-15T19:15:01Z",
+                    "open_issues": 7,
                     "owner": "apache",
                     "repo": "casbin-node-casbin-koa-authz",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "authorization",
+                      "casbin",
+                      "koa2",
+                      "koajs",
+                      "middleware",
+                      "node-casbin"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2631,12 +3846,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ip filter middleware for koa, support whitelist and blacklist.",
+                    "homepage": null,
                     "id": 22717583,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2025-11-25T13:57:48Z",
+                    "open_issues": 0,
                     "owner": "nswbmw",
                     "repo": "koa-ip",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "blacklist",
+                      "ip",
+                      "koa",
+                      "whitelist"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2647,12 +3872,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa middleware to filter request IPs or custom ID with glob patterns, array, string, regexp or matcher function. Support custom 403 Forbidden message and custom ID.",
+                    "homepage": "http://j.mp/1Q2eR4j",
                     "id": 36096337,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-07-13T21:39:02Z",
+                    "open_issues": 3,
                     "owner": "tunnckoCore",
                     "repo": "koa-ip-filter",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "glob",
+                      "ip",
+                      "ip-filter",
+                      "koa",
+                      "koa-middleware",
+                      "limiter",
+                      "matching"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2663,12 +3901,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Security module for koa applications",
+                    "homepage": null,
                     "id": 127187600,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-06-28T20:17:16Z",
+                    "open_issues": 1,
                     "owner": "may215",
                     "repo": "koa-protect",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "koa",
+                      "nodejs",
+                      "security",
+                      "sql-injection",
+                      "xss"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2679,12 +3928,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "acl middleware for koa",
+                    "homepage": null,
                     "id": 40543577,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-08-28T19:27:44Z",
+                    "open_issues": 2,
                     "owner": "Jackong",
                     "repo": "koa-acl",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2702,12 +3956,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.",
+                    "homepage": "https://forwardemail.net/docs/node-js-logging-service",
                     "id": 10254341,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-11-26T09:57:04Z",
+                    "open_issues": 0,
                     "owner": "cabinjs",
                     "repo": "cabin",
-                    "stars": 890
+                    "stars": 890,
+                    "topics": [
+                      "airbrake",
+                      "bugsnag",
+                      "bunyan",
+                      "cabin",
+                      "debug",
+                      "express",
+                      "inspect",
+                      "koa",
+                      "logging",
+                      "logs",
+                      "newrelic",
+                      "papertrail",
+                      "raven",
+                      "react",
+                      "react-native",
+                      "sentry",
+                      "service",
+                      "timber",
+                      "utility",
+                      "winston"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2718,12 +3998,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Development style logging middleware",
+                    "homepage": null,
                     "id": 12174085,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-06-13T00:45:08Z",
+                    "open_issues": 5,
                     "owner": "koajs",
                     "repo": "logger",
-                    "stars": 560
+                    "stars": 560,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2734,12 +4019,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Log HTTP requests/responses separately, visualize their concurrency and report logs/errors in context of a request.",
+                    "homepage": "https://pablosichert.github.io/concurrency-logger/",
                     "id": 71829329,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-03-08T20:36:54Z",
+                    "open_issues": 2,
                     "owner": "pablosichert",
                     "repo": "concurrency-logger",
-                    "stars": 387
+                    "stars": 387,
+                    "topics": [
+                      "concurrency",
+                      "http",
+                      "koa",
+                      "logger",
+                      "logging",
+                      "middleware",
+                      "request"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2750,12 +4048,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa middleware for bunyan request logging",
+                    "homepage": null,
                     "id": 25947856,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-04-09T13:45:30Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "bunyan-logger",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2766,12 +4069,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌲 pino logging koa middleware",
+                    "homepage": null,
                     "id": 56771084,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-10-06T10:23:50Z",
+                    "open_issues": 15,
                     "owner": "pinojs",
                     "repo": "koa-pino-logger",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2782,12 +4090,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "log4js-node supports Koa-middleware",
+                    "homepage": "https://www.npmjs.com/package/koa-log4",
                     "id": 56642714,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-02-27T08:58:59Z",
+                    "open_issues": 5,
                     "owner": "dominhhai",
                     "repo": "koa-log4js",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": [
+                      "koa",
+                      "koa-log4js",
+                      "koa-middleware",
+                      "log4js-node",
+                      "logger-middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2798,12 +4117,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "morgan for koa",
+                    "homepage": null,
                     "id": 31561694,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-12-25T08:39:35Z",
+                    "open_issues": 2,
                     "owner": "koa-modules",
                     "repo": "morgan",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2814,12 +4138,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "KoaJS HTTP Request/Response/Error JSON format logger",
+                    "homepage": null,
                     "id": 22453526,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-02-14T12:04:09Z",
+                    "open_issues": 3,
                     "owner": "rudijs",
                     "repo": "koa-json-logger",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2830,12 +4159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Using node-bunyan as koa logging middleware",
+                    "homepage": null,
                     "id": 20109022,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-11-13T12:59:50Z",
+                    "open_issues": 1,
                     "owner": "ivpusic",
                     "repo": "koa-bunyan",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2846,12 +4180,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware for common log format access logs",
+                    "homepage": null,
                     "id": 26860943,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-31T02:20:05Z",
+                    "open_issues": 1,
                     "owner": "koajs",
                     "repo": "accesslog",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2869,12 +4208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "an error handler for koa, hack ctx.onerror",
+                    "homepage": null,
                     "id": 18875955,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-02-02T12:26:03Z",
+                    "open_issues": 4,
                     "owner": "koajs",
                     "repo": "onerror",
-                    "stars": 141
+                    "stars": 141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2885,12 +4229,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Error response middleware (text, json, html) ",
+                    "homepage": null,
                     "id": 15379486,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T03:14:23Z",
+                    "open_issues": 1,
                     "owner": "koajs",
                     "repo": "error",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2901,12 +4250,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Error handler for pure-JSON apps",
+                    "homepage": null,
                     "id": 19309625,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T06:37:59Z",
+                    "open_issues": 0,
                     "owner": "koajs",
                     "repo": "json-error",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "error-handler",
+                      "json",
+                      "koa"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2917,12 +4275,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Error handler middleware for koa.",
+                    "homepage": null,
                     "id": 32303742,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-03-26T15:52:53Z",
+                    "open_issues": 0,
                     "owner": "nswbmw",
                     "repo": "koa-errorhandler",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2933,12 +4296,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Send Koa errors to Slack",
+                    "homepage": null,
                     "id": 60785501,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-08-24T01:14:12Z",
+                    "open_issues": 1,
                     "owner": "rturk",
                     "repo": "koa-error-slack",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -2956,12 +4324,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "koa locales, i18n solution for koa",
+                    "homepage": null,
                     "id": 35725924,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-03T10:18:16Z",
+                    "open_issues": 16,
                     "owner": "koajs",
                     "repo": "locales",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2972,12 +4345,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight simple translation middleware for koa, based on i18n-2",
+                    "homepage": null,
                     "id": 18930057,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-09-03T14:03:44Z",
+                    "open_issues": 8,
                     "owner": "koa-modules",
                     "repo": "i18n",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 },
@@ -2988,12 +4366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Get locale variable from query, subdomain, accept-languages or cookie for koa.",
+                    "homepage": null,
                     "id": 18258976,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-04-28T08:51:41Z",
+                    "open_issues": 2,
                     "owner": "koa-modules",
                     "repo": "locale",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -3011,12 +4394,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Koa clustering and error handling utility",
+                    "homepage": null,
                     "id": 18578379,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2021-10-29T10:43:20Z",
+                    "open_issues": 4,
                     "owner": "koajs",
                     "repo": "cluster",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
                 }
@@ -3035,15 +4423,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:28:24.863Z",
+    "last_updated": "2026-08-29T03:59:51.112Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Koa 资源大全中文版。An awesome Koa packages and resources",
+      "homepage": null,
       "id": 399323380,
       "language": null,
+      "license": "MIT",
       "last_commit": "2021-12-31T03:31:24Z",
+      "open_issues": 0,
       "owner": "huaize2020",
       "repo": "awesome-koa",
-      "stars": 84
+      "stars": 84,
+      "topics": [
+        "awesome",
+        "awesome-koa",
+        "awesome-koajs",
+        "awesome-list",
+        "awesome-npm",
+        "chinese-translation",
+        "javascript",
+        "koa",
+        "koa2",
+        "node",
+        "nodejs",
+        "npm-package"
+      ]
     },
     "original_repository_sha": "2c7f916e110b0708cbe6c8491c5ed7990ac02e76",
     "enhanced_repository": "enhansome/enhansome-koa",

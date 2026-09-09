@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35688,
+            "stars": 35686,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35688,
+            "stars": 35686,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35688,
+            "stars": 35686,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 410,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18982,
+                "stars": 18980,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -127,7 +127,7 @@
                 "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7744,
+                "stars": 7740,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -165,7 +165,7 @@
                 "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5267,
+                "stars": 5266,
                 "topics": [
                   "koa",
                   "nodejs",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T13:09:54Z",
+                "last_commit": "2026-09-08T13:58:49Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T19:20:50Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-08T17:21:38Z",
+                "open_issues": 558,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73086,
+                "stars": 73095,
                 "topics": [
                   "api",
                   "cms",
@@ -3429,7 +3429,7 @@
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3582,
+                    "stars": 3584,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:52:34.703Z",
+    "last_updated": "2026-09-09T00:59:34.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

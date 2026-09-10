@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35686,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35686,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35686,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 410,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18980,
+                "stars": 18979,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,8 +123,8 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T22:57:13Z",
-                "open_issues": 114,
+                "last_commit": "2026-09-09T19:53:42Z",
+                "open_issues": 115,
                 "owner": "midwayjs",
                 "repo": "midway",
                 "stars": 7740,
@@ -191,7 +191,7 @@
                 "open_issues": 61,
                 "owner": "ladjs",
                 "repo": "lad",
-                "stars": 2288,
+                "stars": 2287,
                 "topics": [
                   "api",
                   "async-await",
@@ -224,12 +224,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🚀 Cabloy is a Node.js fullstack framework for AI vibe coding. Bidirectional type sync, CLI-first workflows, docs, and skills.",
+                "description": "Cabloy is a Node.js fullstack framework for AI vibe coding, with AI Spec-Driven Development for traceable, evidence-backed delivery.",
                 "homepage": "https://cabloy.com",
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T13:58:49Z",
+                "last_commit": "2026-09-09T22:41:23Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T17:21:38Z",
-                "open_issues": 558,
+                "last_commit": "2026-09-09T16:45:43Z",
+                "open_issues": 557,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73095,
+                "stars": 73106,
                 "topics": [
                   "api",
                   "cms",
@@ -1334,7 +1334,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T17:42:35Z",
+                    "last_commit": "2026-09-09T16:43:35Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -1800,8 +1800,8 @@
                     "id": 192201274,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T14:05:54Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-09T02:58:26Z",
+                    "open_issues": 7,
                     "owner": "koajs",
                     "repo": "router",
                     "stars": 910,
@@ -4028,7 +4028,7 @@
                     "open_issues": 2,
                     "owner": "pablosichert",
                     "repo": "concurrency-logger",
-                    "stars": 387,
+                    "stars": 386,
                     "topics": [
                       "concurrency",
                       "http",
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:59:34.503Z",
+    "last_updated": "2026-09-10T00:46:36.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

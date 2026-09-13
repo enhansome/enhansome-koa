@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 37,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 410,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18979,
+                "stars": 18978,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T03:26:15Z",
-                "open_issues": 117,
+                "last_commit": "2026-09-12T06:57:26Z",
+                "open_issues": 118,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7742,
+                "stars": 7741,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T00:33:01Z",
+                "last_commit": "2026-09-12T08:39:46Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T00:36:34Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-12T18:49:15Z",
+                "open_issues": 553,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73128,
+                "stars": 73133,
                 "topics": [
                   "api",
                   "cms",
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:50:49.132Z",
+    "last_updated": "2026-09-13T00:34:18.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

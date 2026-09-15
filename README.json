@@ -15,11 +15,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T04:56:29Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-14T15:32:49Z",
+            "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -38,11 +38,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T04:56:29Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-14T15:32:49Z",
+            "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -61,11 +61,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T04:56:29Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-14T15:32:49Z",
+            "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 410,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18978,
+                "stars": 18977,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T08:39:46Z",
+                "last_commit": "2026-09-15T00:01:25Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T22:18:41Z",
-                "open_issues": 558,
+                "last_commit": "2026-09-14T20:03:32Z",
+                "open_issues": 547,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73143,
+                "stars": 73157,
                 "topics": [
                   "api",
                   "cms",
@@ -849,7 +849,7 @@
                     "id": 20790421,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T16:22:44Z",
+                    "last_commit": "2026-09-14T16:21:18Z",
                     "open_issues": 2,
                     "owner": "koajs",
                     "repo": "body-parsers",
@@ -3322,7 +3322,7 @@
                     "id": 12831096,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T16:02:58Z",
+                    "last_commit": "2026-09-14T16:02:54Z",
                     "open_issues": 6,
                     "owner": "koajs",
                     "repo": "conditional-get",
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:38:38.162Z",
+    "last_updated": "2026-09-15T01:08:10.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

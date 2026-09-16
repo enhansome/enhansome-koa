@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T06:57:26Z",
-                "open_issues": 118,
+                "last_commit": "2026-09-16T00:54:29Z",
+                "open_issues": 115,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7741,
+                "stars": 7742,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T20:03:32Z",
-                "open_issues": 547,
+                "last_commit": "2026-09-15T16:16:40Z",
+                "open_issues": 532,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73157,
+                "stars": 73168,
                 "topics": [
                   "api",
                   "cms",
@@ -1334,7 +1334,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T21:38:11Z",
+                    "last_commit": "2026-09-15T15:33:20Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -1872,7 +1872,7 @@
                     "open_issues": 9,
                     "owner": "koajs",
                     "repo": "route",
-                    "stars": 447,
+                    "stars": 446,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:08:10.368Z",
+    "last_updated": "2026-09-16T01:00:24.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

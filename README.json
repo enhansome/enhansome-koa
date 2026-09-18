@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35686,
+            "stars": 35687,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35686,
+            "stars": 35687,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35686,
+            "stars": 35687,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 410,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18977,
+                "stars": 18979,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,7 +123,7 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T14:09:23Z",
+                "last_commit": "2026-09-17T16:57:16Z",
                 "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T16:48:46Z",
+                "last_commit": "2026-09-17T20:20:12Z",
                 "open_issues": 532,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73177,
+                "stars": 73185,
                 "topics": [
                   "api",
                   "cms",
@@ -1804,7 +1804,7 @@
                     "open_issues": 9,
                     "owner": "koajs",
                     "repo": "router",
-                    "stars": 910,
+                    "stars": 909,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3263,7 +3263,7 @@
                     "open_issues": 2,
                     "owner": "koajs",
                     "repo": "cash",
-                    "stars": 157,
+                    "stars": 156,
                     "topics": [
                       "amazon",
                       "aws",
@@ -3425,7 +3425,7 @@
                     "id": 132330004,
                     "language": "JavaScript",
                     "license": "ISC",
-                    "last_commit": "2026-06-08T17:55:21Z",
+                    "last_commit": "2026-09-17T20:01:49Z",
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:03:24.067Z",
+    "last_updated": "2026-09-18T00:58:16.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

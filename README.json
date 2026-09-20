@@ -15,11 +15,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:32:49Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-19T03:46:48Z",
+            "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35688,
+            "stars": 35687,
             "topics": [
               "koa"
             ]
@@ -38,11 +38,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:32:49Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-19T03:46:48Z",
+            "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35688,
+            "stars": 35687,
             "topics": [
               "koa"
             ]
@@ -61,11 +61,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:32:49Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-19T03:46:48Z",
+            "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35688,
+            "stars": 35687,
             "topics": [
               "koa"
             ]
@@ -92,11 +92,11 @@
                 "id": 61421257,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-23T07:12:27Z",
-                "open_issues": 410,
+                "last_commit": "2026-09-19T15:37:37Z",
+                "open_issues": 411,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18979,
+                "stars": 18980,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,7 +123,7 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T02:38:26Z",
+                "last_commit": "2026-09-19T17:35:17Z",
                 "open_issues": 116,
                 "owner": "midwayjs",
                 "repo": "midway",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:49:12Z",
+                "last_commit": "2026-09-19T22:26:33Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -412,10 +412,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T17:04:33Z",
-                "open_issues": 542,
+                "open_issues": 552,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73191,
+                "stars": 73192,
                 "topics": [
                   "api",
                   "cms",
@@ -1334,7 +1334,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T19:46:01Z",
+                    "last_commit": "2026-09-19T01:14:23Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -1800,8 +1800,8 @@
                     "id": 192201274,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T05:00:07Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-19T13:34:29Z",
+                    "open_issues": 4,
                     "owner": "koajs",
                     "repo": "router",
                     "stars": 910,
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:54:36.900Z",
+    "last_updated": "2026-09-20T00:35:36.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

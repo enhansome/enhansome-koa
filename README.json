@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35687,
+            "stars": 35686,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35687,
+            "stars": 35686,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35687,
+            "stars": 35686,
             "topics": [
               "koa"
             ]
@@ -87,16 +87,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode",
+                "description": "🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg",
                 "homepage": "https://eggjs.org",
                 "id": 61421257,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T15:37:37Z",
-                "open_issues": 411,
+                "last_commit": "2026-09-20T03:02:06Z",
+                "open_issues": 410,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18980,
+                "stars": 18978,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T22:26:33Z",
+                "last_commit": "2026-09-20T15:58:25Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -411,11 +411,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T17:04:33Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-20T22:08:28Z",
+                "open_issues": 557,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73192,
+                "stars": 73200,
                 "topics": [
                   "api",
                   "cms",
@@ -748,7 +748,7 @@
                     "open_issues": 6,
                     "owner": "koajs",
                     "repo": "bodyparser",
-                    "stars": 1326,
+                    "stars": 1325,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -2530,7 +2530,7 @@
                     "open_issues": 7,
                     "owner": "koajs",
                     "repo": "jwt",
-                    "stars": 1349,
+                    "stars": 1348,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -2964,7 +2964,7 @@
                     "open_issues": 3,
                     "owner": "koajs",
                     "repo": "compress",
-                    "stars": 442,
+                    "stars": 441,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3671,7 +3671,7 @@
                     "open_issues": 21,
                     "owner": "koajs",
                     "repo": "cors",
-                    "stars": 742,
+                    "stars": 741,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4423,7 +4423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:35:36.509Z",
+    "last_updated": "2026-09-21T00:47:31.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

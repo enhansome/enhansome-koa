@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 38,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -92,7 +92,7 @@
                 "id": 61421257,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T15:12:58Z",
+                "last_commit": "2026-09-24T07:41:35Z",
                 "open_issues": 407,
                 "owner": "eggjs",
                 "repo": "egg",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T17:01:06Z",
+                "last_commit": "2026-09-24T15:26:19Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -364,33 +364,6 @@
                 ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
-            },
-            {
-              "node_type": "item",
-              "title": "koalerplate",
-              "description": "一个简单的使用 ES6 de Koa 2 样板。",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple Koa Boilerplate for APIs",
-                "homepage": null,
-                "id": 108121413,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2021-07-01T04:50:17Z",
-                "open_issues": 8,
-                "owner": "dbalas",
-                "repo": "koalerplate",
-                "stars": 122,
-                "topics": [
-                  "boilerplate",
-                  "javascript",
-                  "koa",
-                  "koa2",
-                  "nodejs"
-                ]
-              },
-              "first_seen": "2026-08-28T06:28:24.863Z"
             }
           ],
           "description": null,
@@ -411,11 +384,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T21:11:20Z",
-                "open_issues": 568,
+                "last_commit": "2026-09-24T22:00:57Z",
+                "open_issues": 578,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73220,
+                "stars": 73230,
                 "topics": [
                   "api",
                   "cms",
@@ -1334,7 +1307,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-22T18:41:03Z",
+                    "last_commit": "2026-09-24T23:06:43Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -3429,7 +3402,7 @@
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3588,
+                    "stars": 3589,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4423,7 +4396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:00:38.041Z",
+    "last_updated": "2026-09-25T01:06:41.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

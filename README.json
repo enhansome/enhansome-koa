@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-19T03:46:48Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35679,
             "topics": [
               "koa"
             ]
@@ -39,10 +39,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-19T03:46:48Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35679,
             "topics": [
               "koa"
             ]
@@ -62,10 +62,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-19T03:46:48Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35679,
             "topics": [
               "koa"
             ]
@@ -224,16 +224,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Cabloy is a Node.js fullstack framework for AI vibe coding, with AI Spec-Driven Development for traceable, evidence-backed delivery.",
+                "description": "Cabloy is a Node.js fullstack framework for AI vibe coding, with AI Spec-Driven Development guiding work from confirmed specs to verifiable delivery.",
                 "homepage": "https://cabloy.com",
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T09:08:18Z",
+                "last_commit": "2026-10-01T01:43:39Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
-                "stars": 977,
+                "stars": 978,
                 "topics": [
                   "full-stack",
                   "nodejs"
@@ -253,7 +253,7 @@
                 "id": 131427005,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-30T00:42:37Z",
+                "last_commit": "2026-09-30T21:12:56Z",
                 "open_issues": 0,
                 "owner": "Koatty",
                 "repo": "koatty",
@@ -384,11 +384,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T21:48:18Z",
-                "open_issues": 577,
+                "last_commit": "2026-09-30T21:08:47Z",
+                "open_issues": 575,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73254,
+                "stars": 73264,
                 "topics": [
                   "api",
                   "cms",
@@ -497,7 +497,7 @@
                     "id": 19137443,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T15:15:22Z",
+                    "last_commit": "2026-09-30T04:36:15Z",
                     "open_issues": 6,
                     "owner": "koajs",
                     "repo": "is-json",
@@ -2088,7 +2088,7 @@
                     "language": "JavaScript",
                     "license": null,
                     "last_commit": "2026-02-17T14:25:27Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "d-band",
                     "repo": "koa-mapper",
                     "stars": 40,
@@ -3006,7 +3006,7 @@
                     "open_issues": 0,
                     "owner": "coderaiser",
                     "repo": "koa-minify",
-                    "stars": 4,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4396,7 +4396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:47:52.391Z",
+    "last_updated": "2026-10-01T01:46:25.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

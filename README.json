@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "仓库",
-          "description": null,
+          "description": "koajs/koa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -29,7 +29,7 @@
         {
           "node_type": "item",
           "title": "Wiki",
-          "description": null,
+          "description": "koajs/koa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
         {
           "node_type": "item",
           "title": "案例",
-          "description": null,
+          "description": "koajs/koa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -229,11 +229,11 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:43:10Z",
+                "last_commit": "2026-10-03T04:08:10Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
-                "stars": 980,
+                "stars": 981,
                 "topics": [
                   "full-stack",
                   "nodejs"
@@ -4396,7 +4396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:40:42.742Z",
+    "last_updated": "2026-10-03T04:52:14.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

@@ -7,7 +7,7 @@
 > 同时推荐你查看我正在维护的其他仓库
 >
 > * [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs) ⭐ 1,301 | 🐛 4 | 🌐 JavaScript | 📅 2024-06-16
->   * [awesome-koa](https://github.com/huaize2020/awesome-koa) ⭐ 84 | 🐛 0 | 📅 2021-12-31
+>   * [awesome-koa](https://github.com/huaize2020/awesome-koa)
 >   * [awesome-egg](https://github.com/huaize2020/awesome-egg) ⭐ 33 | 🐛 0 | 📅 2023-07-07
 >   * [awesome-electron](https://github.com/electron-modules/awesome-electron) ⭐ 209 | 🐛 5 | 📅 2023-01-03
 > * [awesome-frontend](https://github.com/huaize2020/awesome-frontend) ⭐ 214 | 🐛 0 | 📅 2023-03-23
@@ -70,7 +70,7 @@
 * [midway](https://github.com/midwayjs/midway) ⭐ 7,746 | 🐛 118 | 🌐 TypeScript | 📅 2026-10-02 - 面向前端/全栈开发人员的 Node.js Serverless框架。 Midway 可以使用 koa、express 或 EggJS 作为基本的 web 框架。 ![](https://img.shields.io/github/stars/midwayjs/midway.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/midway.svg?style=flat-square)
 * [ThinkJS](https://github.com/thinkjs/thinkjs) ⭐ 5,267 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-07 - 支持ES2015 +的框架, 支持TypeScript。 ![](https://img.shields.io/github/stars/thinkjs/thinkjs.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/thinkjs.svg?style=flat-square)
 * [lad](https://github.com/ladjs/lad) ⭐ 2,285 | 🐛 61 | 🌐 JavaScript | 📅 2025-11-29 - 最好的Node.js框架，由前Express和Koa团队成员创建。 ![](https://img.shields.io/github/stars/ladjs/lad.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/lad.svg?style=flat-square)
-* [CabloyJS](https://github.com/zhennann/Cabloy) ⭐ 980 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - 一款自带工作流引擎的Node.js全栈框架, 基于koa + egg + vue + framework7. ![](https://img.shields.io/github/stars/zhennann/Cabloy.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/cabloy.svg?style=flat-square)
+* [CabloyJS](https://github.com/zhennann/Cabloy) ⭐ 981 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 - 一款自带工作流引擎的Node.js全栈框架, 基于koa + egg + vue + framework7. ![](https://img.shields.io/github/stars/zhennann/Cabloy.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/cabloy.svg?style=flat-square)
 * [koatty](https://github.com/Koatty/koatty) ⭐ 128 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-30 - Koa2 + Typescript = Koatty。使用Typescript装饰器实现了控制反转和面向切面编程。 ![](https://img.shields.io/github/stars/Koatty/koatty.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koatty.svg?style=flat-square)
 
 ### 案例 & 样板程序

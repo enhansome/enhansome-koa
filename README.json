@@ -15,11 +15,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T03:46:48Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-09T04:06:32Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -38,11 +38,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T03:46:48Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-09T04:06:32Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -61,11 +61,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T03:46:48Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-09T04:06:32Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -92,11 +92,11 @@
                 "id": 61421257,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:15:42Z",
-                "open_issues": 389,
+                "last_commit": "2026-10-09T08:10:02Z",
+                "open_issues": 391,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18981,
+                "stars": 18982,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T01:25:55Z",
-                "open_issues": 116,
+                "last_commit": "2026-10-09T13:19:31Z",
+                "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7746,
+                "stars": 7747,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -165,7 +165,7 @@
                 "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5266,
+                "stars": 5265,
                 "topics": [
                   "koa",
                   "nodejs",
@@ -191,7 +191,7 @@
                 "open_issues": 61,
                 "owner": "ladjs",
                 "repo": "lad",
-                "stars": 2284,
+                "stars": 2285,
                 "topics": [
                   "api",
                   "async-await",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T01:46:35Z",
+                "last_commit": "2026-10-10T01:50:47Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -384,11 +384,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T20:48:32Z",
-                "open_issues": 605,
+                "last_commit": "2026-10-09T16:39:40Z",
+                "open_issues": 610,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73292,
+                "stars": 73293,
                 "topics": [
                   "api",
                   "cms",
@@ -438,7 +438,7 @@
                     "open_issues": 3,
                     "owner": "koajs",
                     "repo": "json",
-                    "stars": 198,
+                    "stars": 197,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -721,7 +721,7 @@
                     "open_issues": 5,
                     "owner": "koajs",
                     "repo": "bodyparser",
-                    "stars": 1325,
+                    "stars": 1324,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -1072,7 +1072,7 @@
                     "open_issues": 3,
                     "owner": "koajs",
                     "repo": "ejs",
-                    "stars": 248,
+                    "stars": 247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -1470,7 +1470,7 @@
                     "open_issues": 22,
                     "owner": "koajs",
                     "repo": "send",
-                    "stars": 433,
+                    "stars": 432,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -1774,7 +1774,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-08T04:31:21Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "koajs",
                     "repo": "router",
                     "stars": 911,
@@ -2181,7 +2181,7 @@
                     "open_issues": 1,
                     "owner": "nswbmw",
                     "repo": "koa-frouter",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3080,7 +3080,7 @@
                     "open_issues": 2,
                     "owner": "koajs",
                     "repo": "generic-session",
-                    "stars": 412,
+                    "stars": 410,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3278,7 +3278,7 @@
                     "open_issues": 2,
                     "owner": "koajs",
                     "repo": "etag",
-                    "stars": 115,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3402,7 +3402,7 @@
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3589,
+                    "stars": 3588,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4396,7 +4396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:42:22.543Z",
+    "last_updated": "2026-10-10T02:01:56.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

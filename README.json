@@ -96,7 +96,7 @@
                 "open_issues": 391,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18982,
+                "stars": 18983,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -165,7 +165,7 @@
                 "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5265,
+                "stars": 5263,
                 "topics": [
                   "koa",
                   "nodejs",
@@ -229,8 +229,8 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T01:50:47Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-10T04:54:23Z",
+                "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 982,
@@ -385,10 +385,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T16:39:40Z",
-                "open_issues": 610,
+                "open_issues": 614,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73293,
+                "stars": 73290,
                 "topics": [
                   "api",
                   "cms",
@@ -1819,7 +1819,7 @@
                     "open_issues": 11,
                     "owner": "koajs",
                     "repo": "joi-router",
-                    "stars": 452,
+                    "stars": 451,
                     "topics": [
                       "javascript",
                       "joi",
@@ -2937,7 +2937,7 @@
                     "open_issues": 3,
                     "owner": "koajs",
                     "repo": "compress",
-                    "stars": 441,
+                    "stars": 440,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3441,7 +3441,7 @@
                     "open_issues": 1,
                     "owner": "koajs",
                     "repo": "ratelimit",
-                    "stars": 493,
+                    "stars": 492,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4190,7 +4190,7 @@
                     "open_issues": 4,
                     "owner": "koajs",
                     "repo": "onerror",
-                    "stars": 141,
+                    "stars": 140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4396,7 +4396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:01:56.111Z",
+    "last_updated": "2026-10-11T01:31:11.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

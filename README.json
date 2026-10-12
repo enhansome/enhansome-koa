@@ -127,7 +127,7 @@
                 "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7747,
+                "stars": 7748,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -165,7 +165,7 @@
                 "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5263,
+                "stars": 5264,
                 "topics": [
                   "koa",
                   "nodejs",
@@ -229,11 +229,11 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T04:54:23Z",
+                "last_commit": "2026-10-11T03:33:54Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
-                "stars": 982,
+                "stars": 983,
                 "topics": [
                   "full-stack",
                   "nodejs"
@@ -384,11 +384,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T16:39:40Z",
-                "open_issues": 614,
+                "last_commit": "2026-10-11T22:08:52Z",
+                "open_issues": 612,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73290,
+                "stars": 73294,
                 "topics": [
                   "api",
                   "cms",
@@ -3402,7 +3402,7 @@
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3588,
+                    "stars": 3589,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4396,7 +4396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:31:11.174Z",
+    "last_updated": "2026-10-12T02:00:47.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

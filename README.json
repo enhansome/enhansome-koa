@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T13:19:31Z",
+                "last_commit": "2026-10-14T01:10:40Z",
                 "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7749,
+                "stars": 7751,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -165,7 +165,7 @@
                 "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5264,
+                "stars": 5265,
                 "topics": [
                   "koa",
                   "nodejs",
@@ -191,7 +191,7 @@
                 "open_issues": 61,
                 "owner": "ladjs",
                 "repo": "lad",
-                "stars": 2285,
+                "stars": 2286,
                 "topics": [
                   "api",
                   "async-await",
@@ -229,11 +229,11 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T03:33:54Z",
+                "last_commit": "2026-10-13T09:22:21Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
-                "stars": 984,
+                "stars": 983,
                 "topics": [
                   "full-stack",
                   "nodejs"
@@ -384,11 +384,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T00:58:37Z",
-                "open_issues": 595,
+                "last_commit": "2026-10-14T00:29:01Z",
+                "open_issues": 599,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73298,
+                "stars": 73299,
                 "topics": [
                   "api",
                   "cms",
@@ -822,7 +822,7 @@
                     "id": 20790421,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T16:22:46Z",
+                    "last_commit": "2026-10-13T19:51:19Z",
                     "open_issues": 2,
                     "owner": "koajs",
                     "repo": "body-parsers",
@@ -1307,7 +1307,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T15:25:54Z",
+                    "last_commit": "2026-10-13T17:58:36Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -2140,27 +2140,6 @@
                     "owner": "koajs",
                     "repo": "path-match",
                     "stars": 37,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:28:24.863Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "koa-params",
-                  "description": "对 koa-route 的 Express 样式参数支持。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Add express style params support to koa",
-                    "homepage": null,
-                    "id": 16139252,
-                    "language": "JavaScript",
-                    "license": null,
-                    "last_commit": "2014-04-12T19:17:18Z",
-                    "open_issues": 0,
-                    "owner": "segment-boneyard",
-                    "repo": "koa-params",
-                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3398,11 +3377,11 @@
                     "id": 132330004,
                     "language": "JavaScript",
                     "license": "ISC",
-                    "last_commit": "2026-09-17T20:01:49Z",
+                    "last_commit": "2026-10-13T09:11:51Z",
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3589,
+                    "stars": 3593,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4001,7 +3980,7 @@
                     "open_issues": 2,
                     "owner": "pablosichert",
                     "repo": "concurrency-logger",
-                    "stars": 386,
+                    "stars": 387,
                     "topics": [
                       "concurrency",
                       "http",
@@ -4396,7 +4375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:19:27.441Z",
+    "last_updated": "2026-10-14T01:33:43.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35679,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 42,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35679,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 42,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35679,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -92,8 +92,8 @@
                 "id": 61421257,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T17:16:10Z",
-                "open_issues": 391,
+                "last_commit": "2026-10-15T03:38:08Z",
+                "open_issues": 390,
                 "owner": "eggjs",
                 "repo": "egg",
                 "stars": 18984,
@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T01:00:48Z",
+                "last_commit": "2026-10-15T20:14:21Z",
                 "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7752,
+                "stars": 7753,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -165,7 +165,7 @@
                 "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5265,
+                "stars": 5264,
                 "topics": [
                   "koa",
                   "nodejs",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T23:52:03Z",
+                "last_commit": "2026-10-15T17:18:52Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -303,7 +303,7 @@
                 "open_issues": 17,
                 "owner": "javieraviles",
                 "repo": "node-typescript-koa-rest",
-                "stars": 1014,
+                "stars": 1013,
                 "topics": [
                   "class-validator",
                   "cors",
@@ -384,11 +384,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T23:19:26Z",
-                "open_issues": 611,
+                "last_commit": "2026-10-15T21:35:03Z",
+                "open_issues": 596,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73311,
+                "stars": 73318,
                 "topics": [
                   "api",
                   "cms",
@@ -2482,7 +2482,7 @@
                     "open_issues": 7,
                     "owner": "koajs",
                     "repo": "jwt",
-                    "stars": 1348,
+                    "stars": 1347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3504,7 +3504,7 @@
                     "open_issues": 36,
                     "owner": "Cody2333",
                     "repo": "koa-swagger-decorator",
-                    "stars": 354,
+                    "stars": 353,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3567,7 +3567,7 @@
                     "open_issues": 3,
                     "owner": "zaaack",
                     "repo": "koa-joi-swagger",
-                    "stars": 74,
+                    "stars": 73,
                     "topics": [
                       "joi",
                       "joi-to-json-schema",
@@ -3595,7 +3595,7 @@
                     "open_issues": 5,
                     "owner": "janvotava",
                     "repo": "swagger-koa",
-                    "stars": 62,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4375,7 +4375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:11:10.290Z",
+    "last_updated": "2026-10-16T00:58:30.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

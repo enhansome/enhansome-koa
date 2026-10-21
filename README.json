@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 46,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 46,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -123,7 +123,7 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T13:02:19Z",
+                "last_commit": "2026-10-21T01:04:39Z",
                 "open_issues": 114,
                 "owner": "midwayjs",
                 "repo": "midway",
@@ -229,14 +229,19 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T16:24:28Z",
+                "last_commit": "2026-10-20T16:00:49Z",
                 "open_issues": 0,
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 983,
                 "topics": [
+                  "framework",
                   "full-stack",
-                  "nodejs"
+                  "fullstack",
+                  "nodejs",
+                  "spec-driven-development",
+                  "typescript",
+                  "vibe-coding"
                 ]
               },
               "first_seen": "2026-08-28T06:28:24.863Z"
@@ -384,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T18:22:55Z",
-                "open_issues": 601,
+                "last_commit": "2026-10-21T00:15:09Z",
+                "open_issues": 616,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73345,
+                "stars": 73355,
                 "topics": [
                   "api",
                   "cms",
@@ -1307,7 +1312,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T16:13:28Z",
+                    "last_commit": "2026-10-20T10:01:38Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -3381,7 +3386,7 @@
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3594,
+                    "stars": 3595,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4375,7 +4380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:29:20.427Z",
+    "last_updated": "2026-10-21T01:13:03.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

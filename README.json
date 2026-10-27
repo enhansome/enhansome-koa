@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-21T06:54:21Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -39,10 +39,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-21T06:54:21Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -62,10 +62,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-21T06:54:21Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35685,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 393,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18985,
+                "stars": 18986,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T00:57:10Z",
-                "open_issues": 114,
+                "last_commit": "2026-10-26T22:51:27Z",
+                "open_issues": 115,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7761,
+                "stars": 7760,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -229,8 +229,8 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T14:28:39Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-26T15:19:06Z",
+                "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
                 "stars": 984,
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T09:59:14Z",
-                "open_issues": 646,
+                "last_commit": "2026-10-27T01:11:55Z",
+                "open_issues": 667,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73379,
+                "stars": 73386,
                 "topics": [
                   "api",
                   "cms",
@@ -1312,7 +1312,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T10:27:25Z",
+                    "last_commit": "2026-10-26T16:47:55Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -1778,8 +1778,8 @@
                     "id": 192201274,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T00:34:01Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-27T01:29:43Z",
+                    "open_issues": 3,
                     "owner": "koajs",
                     "repo": "router",
                     "stars": 911,
@@ -3386,7 +3386,7 @@
                     "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3596,
+                    "stars": 3597,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4380,7 +4380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:57:15.192Z",
+    "last_updated": "2026-10-27T01:47:08.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

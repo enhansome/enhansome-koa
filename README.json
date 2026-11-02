@@ -15,11 +15,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T01:20:43Z",
+            "last_commit": "2026-11-01T23:43:58Z",
             "open_issues": 52,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35682,
+            "stars": 35683,
             "topics": [
               "koa"
             ]
@@ -38,11 +38,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T01:20:43Z",
+            "last_commit": "2026-11-01T23:43:58Z",
             "open_issues": 52,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35682,
+            "stars": 35683,
             "topics": [
               "koa"
             ]
@@ -61,11 +61,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T01:20:43Z",
+            "last_commit": "2026-11-01T23:43:58Z",
             "open_issues": 52,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35682,
+            "stars": 35683,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 393,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18984,
+                "stars": 18985,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T14:34:16Z",
+                "last_commit": "2026-11-02T01:43:08Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -350,7 +350,7 @@
                 "open_issues": 46,
                 "owner": "posquit0",
                 "repo": "koa-rest-api-boilerplate",
-                "stars": 492,
+                "stars": 491,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -390,10 +390,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T16:13:38Z",
-                "open_issues": 668,
+                "open_issues": 669,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73419,
+                "stars": 73422,
                 "topics": [
                   "api",
                   "cms",
@@ -1450,8 +1450,8 @@
                     "id": 12182834,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T23:09:04Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-11-01T09:18:40Z",
+                    "open_issues": 13,
                     "owner": "koajs",
                     "repo": "static",
                     "stars": 1147,
@@ -1778,7 +1778,7 @@
                     "id": 192201274,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T23:06:17Z",
+                    "last_commit": "2026-11-02T01:38:39Z",
                     "open_issues": 5,
                     "owner": "koajs",
                     "repo": "router",
@@ -3383,10 +3383,10 @@
                     "language": "JavaScript",
                     "license": "ISC",
                     "last_commit": "2026-10-19T08:39:54Z",
-                    "open_issues": 10,
+                    "open_issues": 9,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3598,
+                    "stars": 3599,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -3509,7 +3509,7 @@
                     "open_issues": 36,
                     "owner": "Cody2333",
                     "repo": "koa-swagger-decorator",
-                    "stars": 353,
+                    "stars": 352,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4380,7 +4380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:47:56.891Z",
+    "last_updated": "2026-11-02T02:01:54.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

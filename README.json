@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-03T01:27:25Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35681,
             "topics": [
               "koa"
             ]
@@ -39,10 +39,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-03T01:27:25Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35681,
             "topics": [
               "koa"
             ]
@@ -62,10 +62,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-03T01:27:25Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35681,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 393,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18989,
+                "stars": 18990,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -161,8 +161,8 @@
                 "id": 13152531,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T03:28:19Z",
-                "open_issues": 145,
+                "last_commit": "2026-11-13T00:51:45Z",
+                "open_issues": 148,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
                 "stars": 5263,
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T03:31:49Z",
+                "last_commit": "2026-11-12T14:25:32Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T20:15:23Z",
-                "open_issues": 650,
+                "last_commit": "2026-11-12T21:44:18Z",
+                "open_issues": 659,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73464,
+                "stars": 73471,
                 "topics": [
                   "api",
                   "cms",
@@ -2917,7 +2917,7 @@
                     "id": 12238295,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T00:07:18Z",
+                    "last_commit": "2026-11-13T01:17:29Z",
                     "open_issues": 1,
                     "owner": "koajs",
                     "repo": "compress",
@@ -3053,7 +3053,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2025-04-06T22:00:42Z",
-                    "open_issues": 55,
+                    "open_issues": 56,
                     "owner": "koajs",
                     "repo": "session",
                     "stars": 909,
@@ -3403,7 +3403,7 @@
                     "open_issues": 12,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3602,
+                    "stars": 3603,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4397,7 +4397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:33:27.876Z",
+    "last_updated": "2026-11-13T03:05:53.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

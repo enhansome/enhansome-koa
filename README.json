@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 59,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 59,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -161,8 +161,8 @@
                 "id": 13152531,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T00:51:45Z",
-                "open_issues": 148,
+                "last_commit": "2026-11-13T15:43:02Z",
+                "open_issues": 172,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
                 "stars": 5263,
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T14:25:32Z",
+                "last_commit": "2026-11-13T14:36:18Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T21:44:18Z",
-                "open_issues": 659,
+                "last_commit": "2026-11-13T17:45:45Z",
+                "open_issues": 642,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73471,
+                "stars": 73482,
                 "topics": [
                   "api",
                   "cms",
@@ -4397,7 +4397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:05:53.068Z",
+    "last_updated": "2026-11-14T02:53:04.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

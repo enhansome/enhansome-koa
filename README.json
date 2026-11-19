@@ -15,11 +15,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T00:48:18Z",
+            "last_commit": "2026-11-18T23:26:25Z",
             "open_issues": 53,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35681,
             "topics": [
               "koa"
             ]
@@ -38,11 +38,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T00:48:18Z",
+            "last_commit": "2026-11-18T23:26:25Z",
             "open_issues": 53,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35681,
             "topics": [
               "koa"
             ]
@@ -61,11 +61,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T00:48:18Z",
+            "last_commit": "2026-11-18T23:26:25Z",
             "open_issues": 53,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35684,
+            "stars": 35681,
             "topics": [
               "koa"
             ]
@@ -127,7 +127,7 @@
                 "open_issues": 116,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7754,
+                "stars": 7755,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:36:29Z",
+                "last_commit": "2026-11-18T15:10:54Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T20:28:23Z",
-                "open_issues": 625,
+                "last_commit": "2026-11-18T19:00:44Z",
+                "open_issues": 610,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73510,
+                "stars": 73515,
                 "topics": [
                   "api",
                   "cms",
@@ -1450,11 +1450,11 @@
                     "id": 12182834,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T00:08:09Z",
+                    "last_commit": "2026-11-19T03:25:11Z",
                     "open_issues": 13,
                     "owner": "koajs",
                     "repo": "static",
-                    "stars": 1148,
+                    "stars": 1149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -1778,11 +1778,11 @@
                     "id": 192201274,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T00:50:12Z",
+                    "last_commit": "2026-11-18T21:16:17Z",
                     "open_issues": 8,
                     "owner": "koajs",
                     "repo": "router",
-                    "stars": 913,
+                    "stars": 914,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -3099,7 +3099,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2025-05-19T06:02:20Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "koajs",
                     "repo": "koa-redis",
                     "stars": 352,
@@ -3400,7 +3400,7 @@
                     "language": "JavaScript",
                     "license": "ISC",
                     "last_commit": "2026-11-15T18:47:14Z",
-                    "open_issues": 10,
+                    "open_issues": 12,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
                     "stars": 3606,
@@ -3645,7 +3645,7 @@
                     "open_issues": 21,
                     "owner": "koajs",
                     "repo": "cors",
-                    "stars": 741,
+                    "stars": 742,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:28:24.863Z"
@@ -4397,7 +4397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:59:50.588Z",
+    "last_updated": "2026-11-19T03:56:52.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

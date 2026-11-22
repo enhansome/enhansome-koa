@@ -51,9 +51,9 @@
 
 ## 官方文档
 
-* [仓库](https://github.com/koajs/koa) ⭐ 35,681 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-19 ![](https://img.shields.io/github/stars/koajs/koa.svg?style=social\&label=Star)
-* [Wiki](https://github.com/koajs/koa/wiki) ⭐ 35,681 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-19
-* [案例](https://github.com/koajs/koa/examples) ⭐ 35,681 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-19 ![](https://img.shields.io/github/stars/koajs/examples.svg?style=social\&label=Star)
+* [仓库](https://github.com/koajs/koa) ⭐ 35,682 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-19 ![](https://img.shields.io/github/stars/koajs/koa.svg?style=social\&label=Star)
+* [Wiki](https://github.com/koajs/koa/wiki) ⭐ 35,682 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-19
+* [案例](https://github.com/koajs/koa/examples) ⭐ 35,682 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-19 ![](https://img.shields.io/github/stars/koajs/examples.svg?style=social\&label=Star)
 * [官网](https://koajs.com/)
 
 ## 资源
@@ -81,7 +81,7 @@
 
 ### 内容管理系统 (CMS)
 
-* [Strapi](https://github.com/strapi/strapi) ⭐ 73,531 | 🐛 620 | 🌐 TypeScript | 📅 2026-11-20 - 用于构建强大 API 的内容管理框架 (headless-CMS)。 ![](https://img.shields.io/github/stars/strapi/strapi.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/strapi.svg?style=flat-square)
+* [Strapi](https://github.com/strapi/strapi) ⭐ 73,532 | 🐛 619 | 🌐 TypeScript | 📅 2026-11-21 - 用于构建强大 API 的内容管理框架 (headless-CMS)。 ![](https://img.shields.io/github/stars/strapi/strapi.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/strapi.svg?style=flat-square)
 
 ### 中间件
 
@@ -109,7 +109,7 @@
 #### 主体解析(Body解析)
 
 * [koa-bodyparser](https://github.com/koajs/body-parser) ⭐ 1,324 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-03 - 用于Koa，基于co-body的主体解析。 ![](https://img.shields.io/github/stars/koajs/body-parser.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-bodyparser.svg?style=flat-square)
-* [koa-body](https://github.com/dlau/koa-body) ⭐ 954 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-16 - 功能齐全的 koa 主体解析器中间件。支持 multipart、urlencoded 和 json 请求正文。 提供与 Express 的 bodyParser 相同的功能 - multer。 ![](https://img.shields.io/github/stars/dlau/koa-body.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-body.svg?style=flat-square)
+* [koa-body](https://github.com/dlau/koa-body) ⭐ 954 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-16 - 功能齐全的 koa 主体解析器中间件。支持 multipart、urlencoded 和 json 请求正文。 提供与 Express 的 bodyParser 相同的功能 - multer。 ![](https://img.shields.io/github/stars/dlau/koa-body.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-body.svg?style=flat-square)
 * [koa-better-body](https://github.com/tunnckoCore/opensource/tree/master/@packages/koa-better-body) ⭐ 485 | 🐛 45 | 🌐 JavaScript | 📅 2026-02-21 - 功能齐全的 koa 体解析器！支持解析文本、缓冲区、json、json patch、json api、csp-report、multipart、form和urlencoded body。 适用于 koa\@1、koa\@2 并将适用于 koa\@3。 ![](https://img.shields.io/github/stars/tunnckoCore/opensource.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-better-body.svg?style=flat-square)
 * [koa-multer](https://github.com/koa-modules/multer) ⭐ 262 | 🐛 11 | 🌐 JavaScript | 📅 2018-10-05 - Multer 是一个 Node.js 中间件，用于处理 koa 的 multipart/form-data。 koa 中间件的 multer 封装。 ![](https://img.shields.io/github/stars/koa-modules/multer.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-multer.svg?style=flat-square)
 * [koa-body-parsers](https://github.com/koajs/body-parsers) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-09 - Koa请求正文解析器集合。![](https://img.shields.io/github/stars/koajs/koa-body-parsers.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-body-parsers.svg?style=flat-square)
@@ -165,7 +165,7 @@
 
 #### 路由和挂载
 
-* [koa-router](https://github.com/koajs/koa-router) ⭐ 914 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-20 - Koa路由中间件。 ![](https://img.shields.io/github/stars/koajs/koa-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/@koa/router.svg?style=flat-square)
+* [koa-router](https://github.com/koajs/koa-router) ⭐ 914 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-20 - Koa路由中间件。 ![](https://img.shields.io/github/stars/koajs/koa-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/@koa/router.svg?style=flat-square)
 * [koa-mount](https://github.com/koajs/mount) ⭐ 553 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-22 - 挂载Koa应用作为中间件。 ![](https://img.shields.io/github/stars/koajs/mount.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-mount.svg?style=flat-square)
 * [koa-joi-router](https://github.com/koajs/joi-router) ⭐ 451 | 🐛 11 | 🌐 JavaScript | 📅 2025-06-10 - 可配置、输入和输出校验规则的路由。 ![](https://img.shields.io/github/stars/koajs/joi-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-joi-router.svg?style=flat-square)
 * [koa-route](https://github.com/koajs/route) ⭐ 442 | 🐛 9 | 🌐 JavaScript | 📅 2024-09-16 - 一个简单的路由中间件。 ![](https://img.shields.io/github/stars/koajs/route.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-route.svg?style=flat-square)
@@ -177,9 +177,9 @@
 * [koa-qs](https://github.com/koajs/qs) ⭐ 88 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-19 - 支持嵌套的 query string。 ![](https://img.shields.io/github/stars/koajs/qs.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-qs.svg?style=flat-square)
 * [koa-rest-router](https://github.com/tunnckoCore/koa-rest-router) ⭐ 68 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-23 - 最强大、灵活和可组合的路由中间件，用于轻松构建企业 RESTful API！ ![](https://img.shields.io/github/stars/tunnckoCore/koa-rest-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-rest-router.svg?style=flat-square)
 * [koa-66](https://github.com/menems/koa-66) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2017-02-25 - 用于koa v2路由。 ![](https://img.shields.io/github/stars/menems/koa-66.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-66.svg?style=flat-square)
-* [koa-combine-routers](https://github.com/saadq/koa-combine-routers) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-02 - 组合多个[@koa/router](https://github.com/koajs/koa-router) ⭐ 914 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-20实例。 ![](https://img.shields.io/github/stars/saadq/koa-combine-routers.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-combine-routers.svg?style=flat-square)
+* [koa-combine-routers](https://github.com/saadq/koa-combine-routers) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-02 - 组合多个[@koa/router](https://github.com/koajs/koa-router) ⭐ 914 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-20实例。 ![](https://img.shields.io/github/stars/saadq/koa-combine-routers.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-combine-routers.svg?style=flat-square)
 * [koa-mapper](https://github.com/d-band/koa-mapper) ⭐ 40 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-17 - 更好的路由器支持参数验证和 OpenAPI 生成。 ![](https://img.shields.io/github/stars/d-band/koa-mapper.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-mapper.svg?style=flat-square)
-* [koa-react-router](https://github.com/afenton90/koa-react-router) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-29 - koa 2 中间件，用于 React 服务器端渲染和路由使用 [react-router](https://github.com/ReactTraining/react-router) ⭐ 56,646 | 🐛 206 | 🌐 TypeScript | 📅 2026-11-20 ![](https://img.shields.io/github/stars/afenton90/koa-react-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-react-router.svg)
+* [koa-react-router](https://github.com/afenton90/koa-react-router) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-29 - koa 2 中间件，用于 React 服务器端渲染和路由使用 [react-router](https://github.com/ReactTraining/react-router) ⭐ 56,649 | 🐛 208 | 🌐 TypeScript | 📅 2026-11-20 ![](https://img.shields.io/github/stars/afenton90/koa-react-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-react-router.svg)
 * [koa-path-match](https://github.com/koajs/path-match) ⭐ 37 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-11 - Koa路由中间件。 ![](https://img.shields.io/github/stars/koajs/path-match.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-path-match.svg?style=flat-square)
 * [koa-frouter](https://github.com/MangroveTech/koa-frouter) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-04 - File as `path`. ![](https://img.shields.io/github/stars/MangroveTech/koa-frouter.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-frouter.svg?style=flat-square)
 * [koa-dec-router](https://github.com/zaaack/koa-dec-router) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-19 - 一个 ES6 装饰器 + 基于类的路由器，支持继承、覆盖、优先级、自动加载控制器等。底层使用[koa-router](https://github.com/alexmingoia/koa-router) ⭐ 4,809 | 🐛 82 | 🌐 JavaScript | 📅 2026-02-28。 ![](https://img.shields.io/github/stars/zaaack/koa-dec-router.svg?style=social\&label=Star) ![](https://img.shields.io/npm/dm/koa-dec-router.svg)
@@ -320,4 +320,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

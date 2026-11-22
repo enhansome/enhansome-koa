@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-19T07:16:54Z",
-            "open_issues": 54,
+            "open_issues": 58,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -39,10 +39,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-19T07:16:54Z",
-            "open_issues": 54,
+            "open_issues": 58,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -62,10 +62,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-19T07:16:54Z",
-            "open_issues": 54,
+            "open_issues": 58,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35681,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -123,7 +123,7 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T01:10:29Z",
+                "last_commit": "2026-11-21T09:01:22Z",
                 "open_issues": 116,
                 "owner": "midwayjs",
                 "repo": "midway",
@@ -229,7 +229,7 @@
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T02:23:30Z",
+                "last_commit": "2026-11-21T15:40:25Z",
                 "open_issues": 1,
                 "owner": "cabloy",
                 "repo": "cabloy",
@@ -350,7 +350,7 @@
                 "open_issues": 46,
                 "owner": "posquit0",
                 "repo": "koa-rest-api-boilerplate",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T20:20:43Z",
-                "open_issues": 620,
+                "last_commit": "2026-11-21T13:47:26Z",
+                "open_issues": 619,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73531,
+                "stars": 73532,
                 "topics": [
                   "api",
                   "cms",
@@ -744,7 +744,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-11-16T07:04:45Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "koajs",
                     "repo": "koa-body",
                     "stars": 954,
@@ -1779,7 +1779,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-11-20T11:06:26Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "koajs",
                     "repo": "router",
                     "stars": 914,
@@ -4397,7 +4397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:43:24.826Z",
+    "last_updated": "2026-11-22T02:46:52.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

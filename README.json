@@ -15,11 +15,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:16:54Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-24T06:37:23Z",
+            "open_issues": 56,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -38,11 +38,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:16:54Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-24T06:37:23Z",
+            "open_issues": 56,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -61,11 +61,11 @@
             "id": 11551538,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:16:54Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-24T06:37:23Z",
+            "open_issues": 56,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 392,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18993,
+                "stars": 18991,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -224,16 +224,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Cabloy is a Node.js fullstack framework for AI vibe coding, with AI Spec-Driven Development guiding work from confirmed specs to verifiable delivery.",
+                "description": "Cabloy is a Node.js fullstack framework for AI-native vibe coding and spec-driven development, with agent-driven business automation through MCP.",
                 "homepage": "https://cabloy.com",
                 "id": 117403675,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T01:31:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-24T02:06:51Z",
+                "open_issues": 2,
                 "owner": "cabloy",
                 "repo": "cabloy",
-                "stars": 986,
+                "stars": 988,
                 "topics": [
                   "framework",
                   "full-stack",
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T22:06:43Z",
-                "open_issues": 620,
+                "last_commit": "2026-11-23T21:37:57Z",
+                "open_issues": 607,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73538,
+                "stars": 73537,
                 "topics": [
                   "api",
                   "cms",
@@ -1450,8 +1450,8 @@
                     "id": 12182834,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T22:54:27Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-23T09:55:01Z",
+                    "open_issues": 12,
                     "owner": "koajs",
                     "repo": "static",
                     "stars": 1149,
@@ -3400,10 +3400,10 @@
                     "language": "JavaScript",
                     "license": "ISC",
                     "last_commit": "2026-11-15T18:47:14Z",
-                    "open_issues": 12,
+                    "open_issues": 14,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3605,
+                    "stars": 3607,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4397,7 +4397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:27:19.063Z",
+    "last_updated": "2026-11-24T06:42:12.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",

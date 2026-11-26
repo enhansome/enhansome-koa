@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 56,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 56,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35680,
+            "stars": 35678,
             "topics": [
               "koa"
             ]
@@ -96,7 +96,7 @@
                 "open_issues": 392,
                 "owner": "eggjs",
                 "repo": "egg",
-                "stars": 18991,
+                "stars": 18990,
                 "topics": [
                   "egg",
                   "eggjs",
@@ -123,11 +123,11 @@
                 "id": 140669486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T01:07:53Z",
+                "last_commit": "2026-11-25T20:13:23Z",
                 "open_issues": 116,
                 "owner": "midwayjs",
                 "repo": "midway",
-                "stars": 7754,
+                "stars": 7755,
                 "topics": [
                   "aliyun",
                   "aws",
@@ -389,11 +389,11 @@
                 "id": 43441403,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T20:12:42Z",
-                "open_issues": 615,
+                "last_commit": "2026-11-25T20:35:46Z",
+                "open_issues": 630,
                 "owner": "strapi",
                 "repo": "strapi",
-                "stars": 73548,
+                "stars": 73550,
                 "topics": [
                   "api",
                   "cms",
@@ -1312,7 +1312,7 @@
                     "id": 97046165,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T23:00:51Z",
+                    "last_commit": "2026-11-25T18:29:41Z",
                     "open_issues": 32,
                     "owner": "uniibu",
                     "repo": "koa-nunjucks-async",
@@ -1824,7 +1824,7 @@
                     "open_issues": 11,
                     "owner": "koajs",
                     "repo": "joi-router",
-                    "stars": 451,
+                    "stars": 450,
                     "topics": [
                       "javascript",
                       "joi",
@@ -3399,11 +3399,11 @@
                     "id": 132330004,
                     "language": "JavaScript",
                     "license": "ISC",
-                    "last_commit": "2026-11-24T10:44:14Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-11-25T11:04:33Z",
+                    "open_issues": 10,
                     "owner": "animir",
                     "repo": "node-rate-limiter-flexible",
-                    "stars": 3607,
+                    "stars": 3606,
                     "topics": [
                       "bruteforce",
                       "drizzle",
@@ -4397,7 +4397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:11:46.541Z",
+    "last_updated": "2026-11-26T04:39:59.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Koa 资源大全中文版。An awesome Koa packages and resources",
